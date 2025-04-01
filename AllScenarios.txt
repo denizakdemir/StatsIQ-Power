@@ -1,0 +1,2078 @@
+List of Sample Size Procedures – Over 1200 Scenarios
+This page contains a list of the tests and confidence intervals for which sample size and power can be calculated by PASS 2025.  For a more in-depth look at the features of PASS, please download the free trial. Click to see some additional details about one or two means, multiple means, correlation, normality tests, variances, one proportion, two proportions, chi-square and other proportions tests, survival, or regression in PASS.
+Jump to category:
+Assurance
+Bland-Altman Method
+Bridging Studies
+Cluster-Randomized Designs
+Conditional Power
+Confidence Intervals
+Correlation
+Cross-Over Designs
+Equivalence
+Exponential Distribution Parameter Confidence Intervals
+Group-Sequential Tests
+Means - One
+Means - Two Correlated or Paired
+Means - Two Independent
+Means - 2x2 Cross-Over Designs
+Means - Higher-Order Cross-Over Designs
+Means - Many (ANOVA)
+Mediation Effects
+Meta-Analysis
+Michaelis-Menten Parameters
+Mixed Models
+Non-Inferiority
+Nonparametric
+Non-Zero and Non-Unity Null Tests
+Normality Tests
+Pilot Studies
+Proportions - One
+Proportions - Two Independent
+Proportions - Correlated or Paired
+Proportions - Cross-Over Designs
+Proportions - Sensitivity and Specificity
+Proportions - Many
+Quality Control
+Rates and Counts
+Reference Intervals
+Regression
+ROC Curves
+Sensitivity and Specificity
+Single-Case (AB)K Designs
+Superiority by a Margin Tests
+Survival Analysis
+Tolerance Intervals
+Two-Part Models
+Variances and Standard Deviations
+Win-Ratio Composite Endpoint
+Bayesian Adjustment
+Tools
+Design of Experiments
+Assurance - 52 Scenarios
+Click here to see additional details about assurance procedures in PASS.
+Assurance for Two-Sample T-Tests Assuming Equal Variance
+Assurance for Two-Sample Z-Tests Assuming Equal Variance
+Assurance for Two-Sample T-Tests Allowing Unequal Variance
+Assurance for Two-Sample T-Tests for Non-Inferiority Assuming Equal Variance
+Assurance for Two-Sample T-Tests for Superiority by a Margin Assuming Equal Variance
+Assurance for Two-Sample T-Tests for Equivalence Assuming Equal Variance
+Assurance for Two-Sample T-Tests for Non-Inferiority Allowing Unequal Variance
+Assurance for Two-Sample T-Tests for Superiority by a Margin Allowing Unequal Variance
+Assurance for Two-Sample T-Tests for Equivalence Allowing Unequal Variance
+Assurance for Tests for Two Proportions
+Assurance for Non-Zero Null Tests for the Difference Between Two Proportions
+Assurance for Non-Inferiority Tests for the Difference Between Two Proportions
+Assurance for Superiority by a Margin Tests for the Difference Between Two Proportions
+Assurance for Equivalence Tests for the Difference Between Two Proportions
+Assurance for Non-Unity Null Tests for the Ratio of Two Proportions
+Assurance for Non-Unity Null Tests for the Odds Ratio of Two Proportions
+Assurance for Superiority by a Margin Tests for the Ratio of Two Proportions
+Assurance for Non-Inferiority Tests for the Ratio of Two Proportions
+Assurance for Superiority by a Margin Tests for the Odds Ratio of Two Proportions
+Assurance for Non-Inferiority Tests for the Odds Ratio of Two Proportions
+Assurance for Equivalence Tests for the Ratio of Two Proportions
+Assurance for Equivalence Tests for the Odds Ratio of Two Proportions
+Assurance for Logrank Tests (Freedman)
+Assurance for Tests for Two Survival Curves Using Cox's Proportional Hazards Model
+Assurance for Non-Inferiority Tests for Two Survival Curves Using Cox's Proportional Hazards Model
+Assurance for Superiority by a Margin Tests for Two Survival Curves Using Cox's Proportional Hazards Model
+Assurance for Equivalence Tests for Two Survival Curves Using Cox's Proportional Hazards Model
+Assurance for Tests for the Difference of Two Hazard Rates Assuming an Exponential Model
+Assurance for Non-Inferiority Tests for the Difference of Two Hazard Rates Assuming an Exponential Model
+Assurance for Superiority by a Margin Tests for the Difference of Two Hazard Rates Assuming an Exponential Model
+Assurance for Equivalence Tests for the Difference of Two Hazard Rates Assuming an Exponential Model
+Assurance for Tests for the Ratio of Two Negative Binomial Rates
+Assurance for Non-Inferiority Tests for the Ratio of Two Negative Binomial Rates
+Assurance for Superiority by a Margin Tests for the Ratio of Two Negative Binomial Rates
+Assurance for Equivalence Tests for the Ratio of Two Negative Binomial Rates
+Assurance for Tests for Two Means in a Cluster-Randomized Design
+Assurance for Non-Inferiority Tests for Two Means in a Cluster-Randomized Design
+Assurance for Superiority by a Margin Tests for Two Means in a Cluster-Randomized Design
+Assurance for Equivalence Tests for Two Means in a Cluster-Randomized Design
+Assurance for Tests for Two Proportions in a Cluster-Randomized Design
+Assurance for Non-Zero Null Tests for the Difference of Two Proportions in a Cluster-Randomized Design
+Assurance for Non-Inferiority Tests for the Difference of Two Proportions in a Cluster-Randomized Design
+Assurance for Superiority by a Margin Tests for the Difference of Two Proportions in a Cluster-Randomized Design
+Assurance for Equivalence Tests for the Difference of Two Proportions in a Cluster-Randomized Design
+Assurance for Logrank Tests in a Cluster-Randomized Design
+Assurance for Tests for the Difference Between Two Poisson Rates
+Assurance for Tests for the Ratio of Two Poisson Rates
+Assurance for Non-Inferiority Tests for the Ratio of Two Poisson Rates
+Assurance for Superiority by a Margin Tests for the Ratio of Two Poisson Rates
+Assurance for Equivalence Tests for the Ratio of Two Poisson Rates
+Assurance for Non-Inferiority Tests for Vaccine Efficacy using the Ratio of Two Proportions
+Assurance for Superiority by a Margin Tests for Vaccine Efficacy using the Ratio of Two Proportions
+Bland-Altman Method - 1 Scenario
+Bland-Altman Method for Assessing Agreement in Method Comparison Studies
+Bridging Studies - 6 Scenarios
+Bridging Study using the Equivalence Test of Two Groups (Continuous Outcome)
+Bridging Study using a Non-Inferiority Test of Two Groups (Continuous Outcome)
+Bridging Study using the Equivalence Test of Two Groups (Binary Outcome)
+Bridging Study using a Non-Inferiority Test of Two Groups (Binary Outcome)
+Bridging Study Sensitivity Index
+Bridging Study Test of Sensitivity using a Two-Group T-Test (Continuous Outcome)
+Cluster-Randomized Designs - 87 Scenarios
+Tests for Two Means from a Cluster-Randomized Design
+Tests for Two Means in a Stepped-Wedge Cluster-Randomized Design - Complete Design
+Tests for Two Means in a Stepped-Wedge Cluster-Randomized Design - Incomplete Design (Custom)
+Tests for the Matched-Pair Difference of Two Means in a Cluster-Randomized Design
+Non-Inferiority Tests for Two Means in a Cluster-Randomized Design
+Equivalence Tests for Two Means in a Cluster-Randomized Design
+Superiority by a Margin Tests for Two Means in a Cluster-Randomized Design
+Tests for the Difference Between Two Poisson Rates in a Cluster-Randomized Design
+Tests for Two Poisson Rates in a Stepped-Wedge Cluster-Randomized Design - Complete Design
+Tests for Two Poisson Rates in a Stepped-Wedge Cluster-Randomized Design - Incomplete Design (Custom)
+Tests for the Matched-Pair Difference of Two Event Rates in a Cluster-Randomized Design
+Tests for Two Proportions in a Cluster-Randomized Design – Z Test (Pooled)
+Tests for Two Proportions in a Cluster-Randomized Design – Z Test (Unpooled)
+Tests for Two Proportions in a Cluster-Randomized Design – Likelihood Score Test
+Tests for Two Proportions in a Cluster-Randomized Design using Proportions
+Tests for Two Proportions in a Cluster-Randomized Design using Differences
+Tests for Two Proportions in a Cluster-Randomized Design using Ratios
+Tests for Two Proportions in a Stepped-Wedge Cluster-Randomized Design - Complete Design
+Tests for Two Proportions in a Stepped-Wedge Cluster-Randomized Design - Incomplete Design (Custom)
+Tests for the Matched-Pair Difference of Two Proportions in a Cluster-Randomized Design
+Equivalence Tests of Two Proportions in a Cluster-Randomized Design – Z Test (Pooled)
+Equivalence Tests of Two Proportions in a Cluster-Randomized Design – Z Test (Unpooled)
+Equivalence Tests of Two Proportions in a Cluster-Randomized Design – Likelihood Score Test
+Equivalence Tests of Two Proportions in a Cluster-Randomized Design using Proportions
+Equivalence Tests of Two Proportions in a Cluster-Randomized Design using Differences
+Equivalence Tests of Two Proportions in a Cluster-Randomized Design using Ratios
+Non-Inferiority Tests of Two Proportions in a Cluster-Randomized Design – Z Test (Pooled)
+Non-Inferiority Tests of Two Proportions in a Cluster-Randomized Design – Z Test (Unpooled)
+Non-Inferiority Tests of Two Proportions in a Cluster-Randomized Design – Likelihood Score Test
+Non-Inferiority Tests of Two Proportions in a Cluster-Randomized Design using Proportions
+Non-Inferiority Tests of Two Proportions in a Cluster-Randomized Design using Differences
+Non-Inferiority Tests of Two Proportions in a Cluster-Randomized Design using Ratios
+Superiority by a Margin Tests for Two Proportions in a Cluster-Randomized Design – Z Test (Pooled)
+Superiority by a Margin Tests for Two Proportions in a Cluster-Randomized Design – Z Test (Unpooled)
+Superiority by a Margin Tests for Two Proportions in a Cluster-Randomized Design – Z Test (Pooled)
+Superiority by a Margin Tests for Two Proportions in a Cluster-Randomized Design using Proportions
+Superiority by a Margin Tests for the Difference of Two Proportions in a Cluster-Randomized Design
+Superiority by a Margin Tests for the Ratio of Two Proportions in a Cluster-Randomized Design
+GEE Tests for Two Means in a Stratified Cluster-Randomized Design
+GEE Tests for Two Means in a Cluster-Randomized Design
+GEE Tests for Multiple Means in a Cluster-Randomized Design
+GEE Tests for Multiple Proportions in a Cluster-Randomized Design
+GEE Tests for Multiple Poisson Rates in a Cluster-Randomized Design
+Tests for Two Proportions in a Stratified Cluster-Randomized Design (Cochran-Mantel-Haenszel Test)
+Tests for the Difference Between Two Poisson Rates in a Cluster-Randomized Design with Adjustment for Varying Cluster Sizes
+Mixed Models Tests for Two Means in a Cluster-Randomized Design
+Multi-Arm Tests for Treatment and Control Proportions in a Cluster-Randomized Design
+Multi-Arm, Non-Inferiority Tests for Treatment and Control Proportions in a Cluster-Randomized Design
+Multi-Arm Tests for Treatment and Control Means in a Cluster-Randomized Design
+Multi-Arm, Non-Inferiority Tests for Treatment and Control Means in a Cluster-Randomized Design
+Multi-Arm Equivalence Tests for Treatment and Control Means in a Cluster-Randomized Design
+Multi-Arm Superiority by a Margin Tests for Treatment and Control Means in a Cluster-Randomized Design
+Multi-Arm Superiority by a Margin Tests for the Difference of Treatment and Control Proportions in a Cluster-Randomized Design
+Multi-Arm Equivalence Tests for the Difference of Treatment and Control Proportions in a Cluster-Randomized Design
+Multi-Arm Equivalence Tests for the Ratio of Treatment and Control Proportions in a Cluster-Randomized Design
+Multi-Arm Non-Inferiority Tests for the Ratio of Treatment and Control Proportions in a Cluster-Randomized Design
+Multi-Arm Superiority by a Margin Tests for the Ratio of Treatment and Control Proportions in a Cluster-Randomized Design
+Multi-Arm Non-Inferiority Tests for Vaccine Efficacy using the Ratio of Treatment and Control Proportions in a Cluster-Randomized Design
+Multi-Arm Superiority by a Margin Tests for Vaccine Efficacy using the Ratio of Treatment and Control Proportions in a Cluster-Randomized Design
+Multi-Arm Tests for Survival Curves using Cox's Proportional Hazards in a Cluster-Randomized Design
+Multi-Arm Non-Inferiority Tests for Survival Curves using Cox's Proportional Hazards in a Cluster-Randomized Design
+Multi-Arm Superiority by a Margin Tests for Survival Curves using Cox's Proportional Hazards in a Cluster-Randomized Design
+Multi-Arm Equivalence Tests for Survival Curves using Cox's Proportional Hazards in a Cluster-Randomized Design
+Meta-Analysis of Means using a Fixed-Effects Model in a Cluster-Randomized Design
+Meta-Analysis of Means using a Random-Effects Model in a Cluster-Randomized Design
+Meta-Analysis of Tests for the Odds Ratio of Two Proportions using a Fixed-Effects Model in a Cluster-Randomized Design
+Meta-Analysis of Tests for the Odds Ratio of Two Proportions using a Random-Effects Model in a Cluster-Randomized Design
+Meta-Analysis of Tests for the Risk Ratio of Two Proportions using a Fixed-Effects Model in a Cluster-Randomized Design
+Meta-Analysis of Tests for the Risk Ratio of Two Proportions using a Random-Effects Model in a Cluster-Randomized Design
+Tests for Two Means in a Cluster-Randomized Design with Clustering in Only One Arm
+Non-Inferiority Tests for Two Means in a Cluster-Randomized Design with Clustering in Only One Arm
+Tests for Two Proportions in a Cluster-Randomized Design with Clustering in Only One Arm
+Non-Inferiority Tests for Two Proportions in a Cluster-Randomized Design with Clustering in Only One Arm
+Tests for Two Survival Curves using Cox's Proportional Hazards in a Cluster-Randomized Design
+Non-Inferiority Tests for Two Survival Curves using Cox's Proportional Hazards in a Cluster-Randomized Design
+Superiority by a Margin Tests for Two Survival Curves using Cox's Proportional Hazards in a Cluster-Randomized Design
+Equivalence Tests for Two Survival Curves using Cox's Proportional Hazards in a Cluster-Randomized Design
+Tests for Two Proportions in a Stratified Cluster-Randomized Design (Cochran-Mantel-Haenszel Test)
+Tests for the Matched-Pair Difference of Two Proportions in a Cluster-Randomized Design with Missing Value Adjustment
+Superiority by a Margin Tests for Two Means in a Cluster-Randomized Design with Clustering in Only One Arm
+Equivalence Tests for Two Means in a Cluster-Randomized Design with Clustering in Only One Arm
+Superiority by a Margin Tests for Two Proportions in a Cluster-Randomized Design with Clustering in Only One Arm
+Equivalence Tests for Two Proportions in a Cluster-Randomized Design with Clustering in Only One Arm
+Tests for the Ratio of Two Poisson Rates in a Cluster-Randomized Design using GEE
+Superiority by a Margin Tests for the Ratio of Two Poisson Rates in a Cluster-Randomized Design using GEE
+Non-Inferiority Tests for the Ratio of Two Poisson Rates in a Cluster-Randomized Design using GEE
+Superiority by a Margin Tests for Vaccine Efficacy using the Ratio of Two Poisson Rates in a Cluster-Randomized Design using GEE
+Non-Inferiority Tests for Vaccine Efficacy using the Ratio of Two Poisson Rates in a Cluster-Randomized Design using GEE
+Tests for the Matched-Pair Difference of Two Means in a Cluster-Randomized Design with Missing Value Adjustment
+GEE Tests for Two Means in a Stratified Cluster-Randomized Design
+Conditional Power - 23 Scenarios
+Conditional Power of One-Sample T-Tests
+Conditional Power of Two-Sample T-Tests
+Conditional Power of Two-Sample T-Tests – Unequal n’s
+Conditional Power of Paired T-Tests
+Conditional Power of 2x2 Cross-Over Designs
+Conditional Power of Logrank Tests
+Conditional Power of One-Proportion Tests
+Conditional Power of Two-Proportions Tests
+Conditional Power of Two-Proportions Tests – Unequal n’s
+Conditional Power of Two-Sample T-Tests for Non-Inferiority
+Conditional Power of Two-Sample T-Tests for Superiority by a Margin
+Conditional Power of Non-Inferiority Tests for the Difference Between Two Proportions
+Conditional Power of Superiority by a Margin Tests for the Difference Between Two Proportions
+Conditional Power of Non-Inferiority Logrank Tests
+Conditional Power of Superiority by a Margin Logrank Tests
+Conditional Power of Non-Inferiority Tests for Two Means in a 2x2 Cross-Over Design
+Conditional Power of Superiority by a Margin Tests for Two Means in a 2x2 Cross-Over Design
+Conditional Power of One-Sample T-Tests for Non-Inferiority
+Conditional Power of One-Sample T-Tests for Superiority by a Margin
+Conditional Power of Paired T-Tests for Non-Inferiority
+Conditional Power of Paired T-Tests for Superiority by a Margin
+Conditional Power of Non-Inferiority Tests for One Proportion
+Conditional Power of Superiority by a Margin Tests for One Proportion
+Confidence Intervals - 101 Scenarios
+Confidence Intervals for Pearson’s Correlation
+Confidence Intervals for Spearman’s Rank Correlation
+Confidence Intervals for Kendall’s Tau-b Correlation
+Confidence Intervals for Point Biserial Correlation
+Confidence Intervals for Intraclass Correlation
+Confidence Intervals for Coefficient Alpha
+Confidence Intervals for Kappa
+Confidence Intervals for One Mean with Known Standard Deviation
+Confidence Intervals for One Mean with Sample Standard Deviation
+Confidence Intervals for One Mean with Tolerance Probability with Known Standard Deviation
+Confidence Intervals for One Mean with Tolerance Probability with Sample Standard Deviation
+Confidence Intervals for One Mean in a Stratified Design
+Confidence Intervals for One Mean in a Cluster-Randomized Design
+Confidence Intervals for One Mean in a Stratified Cluster-Randomized Design
+Confidence Intervals for the Difference between Two Means Assuming Equal Standard Deviations
+Confidence Intervals for the Difference between Two Means Assuming Unequal Standard Deviations
+Confidence Intervals for the Difference between Two Means with Tolerance Probability with Known Standard Deviation
+Confidence Intervals for the Difference between Two Means with Tolerance Probability with Sample Standard Deviation
+Confidence Intervals for Paired Means with Known Standard Deviation
+Confidence Intervals for Paired Means with Sample Standard Deviation
+Confidence Intervals for Paired Means with Tolerance Probability with Known Standard Deviation
+Confidence Intervals for Paired Means with Tolerance Probability with Sample Standard Deviation
+Confidence Intervals for One-Way Repeated Measures Contrasts
+Confidence Intervals for One Proportion – Exact (Clopper-Pearson)
+Confidence Intervals for One Proportion – Score (Wilson)
+Confidence Intervals for One Proportion – Score (Continuity Correction)
+Confidence Intervals for One Proportion – Simple Asymptotic
+Confidence Intervals for One Proportion – Simple Asymptotic (Continuity Correction)
+Confidence Intervals for One Proportion from a Finite Population
+Confidence Intervals for One Proportion in a Stratified Design
+Confidence Intervals for One Proportion in a Cluster-Randomized Design
+Confidence Intervals for One Proportion in a Stratified Cluster-Randomized Design
+Confidence Intervals for One-Sample Sensitivity
+Confidence Intervals for One-Sample Specificity
+Confidence Intervals for One-Sample Sensitivity and Specificity
+Confidence Intervals for Two Proportions – Score (Farrington & Manning)
+Confidence Intervals for Two Proportions – Score (Farrington & Manning) – Unequal n’s
+Confidence Intervals for Two Proportions – Score (Miettinen & Nurminen)*
+Confidence Intervals for Two Proportions – Score (Miettinen & Nurminen) – Unequal n’s
+Confidence Intervals for Two Proportions – Score with Skewness (Gart & Nam)
+Confidence Intervals for Two Proportions – Score with Skewness (Gart & Nam) – Unequal n’s
+Confidence Intervals for Two Proportions – Score (Wilson)
+Confidence Intervals for Two Proportions – Score (Wilson) – Unequal n’s
+Confidence Intervals for Two Proportions – Score with Continuity Correction (Wilson)
+Confidence Intervals for Two Proportions – Score with Continuity Correction (Wilson) – Unequal n’s
+Confidence Intervals for Two Proportions – Chi-Square with Continuity Correction (Yates)
+Confidence Intervals for Two Proportions – Chi-Square with Continuity Correction (Yates) – Unequal n’s
+Confidence Intervals for Two Proportions – Chi-Square (Pearson)
+Confidence Intervals for Two Proportions – Chi-Square (Pearson) – Unequal n’s
+Confidence Intervals for Two Proportions using Ratios – Score (Farrington & Manning)
+Confidence Intervals for Two Proportions using Ratios – Score (Farrington & Manning) – Unequal n’s
+Confidence Intervals for Two Proportions using Ratios – Score (Miettinen & Nurminen)
+Confidence Intervals for Two Proportions using Ratios – Score (Miettinen & Nurminen) – Unequal n’s
+Confidence Intervals for Two Proportions using Ratios – Score with Skewness (Gart & Nam)
+Confidence Intervals for Two Proportions using Ratios – Score with Skewness (Gart & Nam) – Unequal n’s
+Confidence Intervals for Two Proportions using Ratios – Logarithm (Katz)
+Confidence Intervals for Two Proportions using Ratios – Logarithm (Katz) – Unequal n’s
+Confidence Intervals for Two Proportions using Ratios – Logarithm + ½ (Walter)
+Confidence Intervals for Two Proportions using Ratios – Logarithm + ½ (Walter) – Unequal n’s
+Confidence Intervals for Two Proportions using Ratios – Fleiss
+Confidence Intervals for Two Proportions using Ratios – Fleiss – Unequal n’s
+Confidence Intervals for Two Proportions using Odds Ratios – Exact (Conditional)
+Confidence Intervals for Two Proportions using Odds Ratios – Exact (Conditional) – Unequal n’s
+Confidence Intervals for Two Proportions using Odds Ratios – Score (Farrington & Manning)
+Confidence Intervals for Two Proportions using Odds Ratios – Score (Farrington & Manning) – Unequal n’s
+Confidence Intervals for Two Proportions using Odds Ratios – Score (Miettinen & Nurminen)
+Confidence Intervals for Two Proportions using Odds Ratios – Score (Miettinen & Nurminen) – Unequal n’s
+Confidence Intervals for Two Proportions using Odds Ratios – Fleiss
+Confidence Intervals for Two Proportions using Odds Ratios – Fleiss – Unequal n’s
+Confidence Intervals for Two Proportions using Odds Ratios – Logarithm
+Confidence Intervals for Two Proportions using Odds Ratios – Logarithm – Unequal n’s
+Confidence Intervals for Two Proportions using Odds Ratios – Mantel-Haenszel
+Confidence Intervals for Two Proportions using Odds Ratios – Mantel-Haenszel – Unequal n’s
+Confidence Intervals for Two Proportions using Odds Ratios – Simple
+Confidence Intervals for Two Proportions using Odds Ratios – Simple – Unequal n’s
+Confidence Intervals for Two Proportions using Odds Ratios – Simple + 1/2
+Confidence Intervals for Two Proportions using Odds Ratios – Simple + 1/2 – Unequal n’s
+Confidence Intervals for the Odds Ratio in a Logistic Regression with One Binary Covariate
+Confidence Intervals for the Odds Ratio in a Logistic Regression with Two Binary Covariates
+Confidence Intervals for the Interaction Odds Ratio in a Logistic Regression with Two Binary Covariates
+Confidence Intervals for Linear Regression Slope
+Confidence Intervals for Michaelis-Menten Parameters
+Confidence Intervals for One Standard Deviation using Standard Deviation
+Confidence Intervals for One Standard Deviation using Relative Error
+Confidence Intervals for One Standard Deviation with Tolerance Probability – Known Standard Deviation
+Confidence Intervals for One Standard Deviation with Tolerance Probability – Sample Standard Deviation
+Confidence Intervals for One Variance using Variance
+Confidence Intervals for One Variance using Relative Error
+Confidence Intervals for One Variance with Tolerance Probability – Known Variance
+Confidence Intervals for One Variance with Tolerance Probability – Sample Variance
+Confidence Intervals for the Ratio of Two Variances using Variances
+Confidence Intervals for the Ratio of Two Variances using Variances – Unequal n’s
+Confidence Intervals for the Ratio of Two Variances using Relative Error
+Confidence Intervals for the Ratio of Two Variances using Relative Error – Unequal n’s
+Confidence Intervals for the Exponential Lifetime Mean
+Confidence Intervals for the Exponential Hazard Rate
+Confidence Intervals for an Exponential Lifetime Percentile
+Confidence Intervals for Exponential Reliability
+Confidence Intervals for a Percentile of a Normal Distribution
+Confidence Intervals for the Area Under an ROC Curve
+Confidence Intervals for the Area Under an ROC Curve – Unequal n’s
+Correlation - 25 Scenarios
+Click here to see additional details about correlation procedures in PASS.
+Tests for Two Correlations
+Tests for Two Correlations – Unequal n’s
+Pearson’s Correlation Tests
+Pearson’s Correlation Tests with Simulation
+Spearman’s Rank Correlation Tests with Simulation
+Kendall’s Tau-b Correlation Tests with Simulation
+Point Biserial Correlation Tests
+Power Comparison of Correlation Tests with Simulation
+Confidence Intervals for Spearman’s Rank Correlation
+Confidence Intervals for Kendall’s Tau-b Correlation
+Confidence Intervals for Point Biserial Correlation
+Tests for One Coefficient (or Cronbach's) Alpha
+Tests for Two Coefficient (or Cronbach's) Alphas
+Tests for Two Coefficient (or Cronbach's) Alphas – Unequal n’s
+Confidence Intervals for Coefficient (or Cronbach's) Alpha
+Tests for Intraclass Correlation
+Confidence Intervals for Intraclass Correlation
+Kappa Test for Agreement Between Two Raters
+Confidence Intervals for Kappa
+Lin's Concordance Correlation Coefficient
+Meta-Analysis of Correlations using a Fixed-Effects Model
+Meta-Analysis of Correlations using a Random-Effects Model
+Tests for Two Independent Pearson's Correlations
+Tests for Two Dependent Pearson's Correlations with One Index in Common (Steiger's Z-Test)
+Tests for Two Dependent Pearson's Correlations with No Indices in Common (Steiger's Z-Test)
+Cross-Over Designs - 56 Scenarios
+Tests for Two Means in a 2x2 Cross-Over Design using Differences
+Tests for Two Means in a 2x2 Cross-Over Design using Ratios
+Tests for the Difference of Two Means in a Higher-Order Cross-Over Design
+Tests for the Ratio of Two Means in a Higher-Order Cross-Over Design
+M x M Cross-Over Designs
+M-Period Cross-Over Designs using Contrasts
+Non-Inferiority Tests for Two Means in a 2x2 Cross-Over Design using Differences
+Non-Inferiority Tests for Two Means in a 2x2 Cross-Over Design using Ratios
+Non-Inferiority Tests for Two Means in a Higher-Order Cross-Over Design using Differences
+Non-Inferiority Tests for Two Means in a Higher-Order Cross-Over Design using Ratios
+Equivalence Tests for Two Means in a 2x2 Cross-Over Design using Differences
+Equivalence Tests for Two Means in a 2x2 Cross-Over Design using Ratios
+Equivalence Tests for Two Means in a Higher-Order Cross-Over Design using Differences
+Equivalence Tests for Two Means in a Higher-Order Cross-Over Design using Ratios
+Superiority by a Margin Tests for Two Means in a 2x2 Cross-Over Design using Differences
+Superiority by a Margin Tests for Two Means in a 2x2 Cross-Over Design using Ratios
+Superiority by a Margin Tests for Two Means in a Higher-Order Cross-Over Design using Differences
+Superiority by a Margin Tests for Two Means in a Higher-Order Cross-Over Design using Ratios
+Conditional Power of 2x2 Cross-Over Designs
+Tests for the Odds Ratio of Two Proportions in a 2x2 Cross-Over Design
+Non-Inferiority Tests for the Odds Ratio of Two Proportions in a 2x2 Cross-Over Design
+Superiority by a Margin Tests for the Odds Ratio of Two Proportions in a 2x2 Cross-Over Design
+Equivalence Tests for the Odds Ratio of Two Proportions in a 2x2 Cross-Over Design
+Tests for the Difference of Two Proportions in a 2x2 Cross-Over Design
+Non-Inferiority Tests for the Difference of Two Proportions in a 2x2 Cross-Over Design
+Superiority by a Margin Tests for the Difference of Two Proportions in a 2x2 Cross-Over Design
+Equivalence Tests for the Difference of Two Proportions in a 2x2 Cross-Over Design
+Tests for the Ratio of Two Poisson Rates in a 2x2 Cross-Over Design
+Non-Inferiority Tests for the Ratio of Two Poisson Rates in a 2x2 Cross-Over Design
+Superiority by a Margin Tests for the Ratio of Two Poisson Rates in a 2x2 Cross-Over Design
+Equivalence Tests for the Ratio of Two Poisson Rates in a 2x2 Cross-Over Design
+Tests for the Generalized Odds Ratio for Ordinal Data in a 2x2 Cross-Over Design
+Non-Inferiority Tests for the Generalized Odds Ratio for Ordinal Data in a 2x2 Cross-Over Design
+Superiority by a Margin Tests for the Gen. Odds Ratio for Ordinal Data in a 2x2 Cross-Over Design
+Equivalence Tests for the Generalized Odds Ratio for Ordinal Data in a 2x2 Cross-Over Design
+Tests for Pairwise Proportion Differences in a Williams Cross-Over Design
+Non-Inferiority Tests for Pairwise Proportion Differences in a Williams Cross-Over Design
+Superiority by a Margin Tests for Pairwise Proportion Differences in a Williams Cross-Over Design
+Equivalence Tests for Pairwise Proportion Differences in a Williams Cross-Over Design
+Tests for Pairwise Mean Differences in a Williams Cross-Over Design
+Non-Inferiority Tests for Pairwise Mean Differences in a Williams Cross-Over Design
+Superiority by a Margin Tests for Pairwise Mean Differences in a Williams Cross-Over Design
+Equivalence Tests for Pairwise Mean Differences in a Williams Cross-Over Design
+Tests for Two Between-Subject Variances in a 2×2M Replicated Cross-Over Design
+Non-Unity Null Tests for Two Between-Subject Variances in a 2×2M Replicated Cross-Over Design
+Non-Inferiority Tests for Two Between-Subject Variances in a 2×2M Replicated Cross-Over Design
+Superiority by a Margin Tests for Two Between-Subject Variances in a 2×2M Replicated Cross-Over Design
+Tests for Two Total Variances in a 2×2M Replicated Cross-Over Design
+Non-Unity Null Tests for Two Total Variances in a 2×2M Replicated Cross-Over Design
+Non-Inferiority Tests for Two Total Variances in a 2×2M Replicated Cross-Over Design
+Superiority by a Margin Tests for Two Total Variances in a 2×2M Replicated Cross-Over Design
+Tests for Two Total Variances in a 2×2 Cross-Over Design
+Non-Unity Null Tests for Two Total Variances in a 2×2 Cross-Over Design
+Non-Inferiority Tests for Two Total Variances in a 2×2 Cross-Over Design
+Superiority by a Margin Tests for Two Total Variances in a 2×2 Cross-Over Design
+Bioequivalence Tests for AUC and Cmax in a 2x2 Cross-Over Design (Log-Normal Data)
+Equivalence - 89 Scenarios
+Equivalence Tests for Paired Means (Simulation) – T-Test
+Equivalence Tests for Paired Means (Simulation) – Wilcoxon Test
+Equivalence Tests for Paired Means (Simulation) – Sign Test
+Equivalence Tests for Paired Means (Simulation) – Bootstrap
+Equivalence Tests for Two Means using Differences
+Equivalence Tests for Two Means using Differences – Unequal n’s
+Equivalence Tests for Two Means using Ratios
+Equivalence Tests for the Ratio of Two Poisson Rates
+Equivalence Tests for the Ratio of Two Poisson Rates – Unequal n’s
+Equivalence Tests for the Ratio of Two Negative Binomial Rates
+Equivalence Tests for the Ratio of Two Negative Binomial Rates – Unequal n’s
+Equivalence Tests for the Difference Between Two Paired Means
+Equivalence Tests for Two Means using Ratios – Unequal n’s
+Equivalence Tests for Two Means (Simulation) – T-Test
+Equivalence Tests for Two Means (Simulation) – T-Test – Unequal n’s
+Equivalence Tests for Two Means (Simulation) – Welch Test
+Equivalence Tests for Two Means (Simulation) – Welch Test – Unequal n’s
+Equivalence Tests for Two Means (Simulation) – Trim T-Test
+Equivalence Tests for Two Means (Simulation) – Trim T-Test – Unequal n’s
+Equivalence Tests for Two Means (Simulation) – Trim Welch Test
+Equivalence Tests for Two Means (Simulation) – Trim Welch Test – Unequal n’s
+Equivalence Tests for Two Means (Simulation) – Mann-Whitney Test
+Equivalence Tests for Two Means (Simulation) – Mann-Whitney Test – Unequal n’s
+Equivalence Tests for Two Means in a 2x2 Cross-Over Design
+Equivalence Tests for Two Means in a 2x2 Cross-Over Design using Ratios
+Equivalence Tests for Two Means in a Higher-Order Cross-Over Design
+Equivalence Tests for Two Means in a Higher-Order Cross-Over Design using Ratios
+Equivalence Tests for Two Means in a Cluster-Randomized Design
+Equivalence Tests for One Proportion – Exact Test
+Equivalence Tests for One Proportion – Z Test using S(P0)
+Equivalence Tests for One Proportion – Z Test using S(P0) with Continuity Correction
+Equivalence Tests for One Proportion – Z Test using S(Phat)
+Equivalence Tests for One Proportion – Z Test using S(Phat) with Continuity Correction
+Equivalence Tests for Two Proportions – Z Test (Pooled)
+Equivalence Tests for Two Proportions – Z Test (Pooled) – Unequal n’s
+Equivalence Tests for Two Proportions – Z Test (Unpooled)
+Equivalence Tests for Two Proportions – Z Test (Unpooled) – Unequal n’s
+Equivalence Tests for Two Proportions – Z Test (Pooled) with Continuity Correction
+Equivalence Tests for Two Proportions – Z Test (Pooled) with Continuity Correction – Unequal n’s
+Equivalence Tests for Two Proportions – Z Test (Unpooled) with Continuity Correction
+Equivalence Tests for Two Proportions – Z Test (Unpooled) with Continuity Correction – Unequal n’s
+Equivalence Tests for Two Proportions – Likelihood Score (Farrington & Manning)
+Equivalence Tests for Two Proportions – Likelihood Score (Farrington & Manning) – Unequal n’s
+Equivalence Tests for Two Proportions – Likelihood Score (Miettinen & Nurminen)
+Equivalence Tests for Two Proportions – Likelihood Score (Miettinen & Nurminen) – Unequal n’s
+Equivalence Tests for Two Proportions – Likelihood Score (Gart & Nam)
+Equivalence Tests for Two Proportions – Likelihood Score (Gart & Nam) – Unequal n’s
+Equivalence Tests for Two Correlated Proportions
+Equivalence Tests for Two Correlated Proportions using Ratios
+Equivalence Tests for Two Proportions in a Cluster-Randomized Design
+Equivalence Tests for Two Proportions in a Cluster-Randomized Design – Unequal n’s
+Equivalence Tests for Two Proportions in a Cluster-Randomized Design using Ratios
+Equivalence Tests for Two Proportions in a Cluster-Randomized Design using Ratios – Unequal n’s
+Equivalence Tests for Two Survival Curves using Cox’s Proportional Hazards Model
+Equivalence Tests for Two Survival Curves using Cox’s Proportional Hazards Model – Unequal n’s
+Equivalence Tests for the Difference of Two Hazard Rates Assuming an Exponential Model
+Equivalence Tests for the Difference of Two Hazard Rates Assuming an Exponential Model – Unequal n’s
+Equivalence Tests for the Odds Ratio of Two Proportions in a 2x2 Cross-Over Design
+Equivalence Tests for the Difference of Two Proportions in a 2x2 Cross-Over Design
+Equivalence Tests for the Ratio of Two Poisson Rates in a 2x2 Cross-Over Design
+Equivalence Tests for the Generalized Odds Ratio for Ordinal Data in a 2x2 Cross-Over Design
+Equivalence Tests for Pairwise Proportion Differences in a Williams Cross-Over Design
+Equivalence Tests for Pairwise Mean Differences in a Williams Cross-Over Design
+Equivalence Tests for Simple Linear Regression
+Equivalence Tests for the Ratio of Two Within-Subject Variances in a Parallel Design
+Equivalence Tests for the Ratio of Two Within-Subject Variances in a 2×2M Replicated Cross-Over Design
+Equivalence Tests for the Difference of Two Within-Subject CV's in a Parallel Design
+Equivalence Tests for the Ratio of Two Variances
+One-Sample Z-Tests for Equivalence
+Paired Z-Tests for Equivalence
+Two-Sample T-Tests for Equivalence Allowing Unequal Variance
+Bioequivalence Tests for AUC and Cmax in a 2x2 Cross-Over Design (Log-Normal Data)
+Multi-Arm, Equivalence Tests of the Difference Between Treatment and Control Proportions
+Multi-Arm, Equivalence Tests of the Ratio of Treatment and Control Proportions
+Multi-Arm, Equivalence Tests of the Odds Ratio of Treatment and Control Proportions
+Multi-Arm, Equivalence Tests of the Difference Between Treatment and Control Means Assuming Equal Variance
+Multi-Arm, Equivalence Tests of the Ratio of Treatment and Control Means Assuming Normal Data with Equal Variance
+Multi-Arm, Equivalence Tests of the Ratio of Treatment and Control Means Assuming Log-Normal Data
+Multi-Arm, Equivalence Tests of the Difference Between Treatment and Control Means Allowing Unequal Variances
+Multi-Arm, Equivalence Tests Comparing Treatment and Control Survival Curves Using the Cox's Proportional Hazards Model
+Multi-Arm Equivalence Tests for Treatment and Control Means in a Cluster-Randomized Design
+Multi-Arm Equivalence Tests for the Difference of Treatment and Control Proportions in a Cluster-Randomized Design
+Multi-Arm Equivalence Tests for the Ratio of Treatment and Control Proportions in a Cluster-Randomized Design
+Multi-Arm Equivalence Tests for Survival Curves using Cox's Proportional Hazards in a Cluster-Randomized Design
+Equivalence Tests for Two Survival Curves using Cox's Proportional Hazards in a Cluster-Randomized Design
+Biosimilar Tests for the Difference Between Means using a Parallel, Two-Group Design
+Equivalence Tests for the Ratio of Two Recurrent Event Rates Assuming the Andersen-Gill Model
+Equivalence Tests for Two Means in a Cluster-Randomized Design with Clustering in Only One Arm
+Equivalence Tests for Two Proportions in a Cluster-Randomized Design with Clustering in Only One Arm
+Exponential Distribution Parameter Confidence Intervals - 4 Scenarios
+Confidence Intervals for the Exponential Lifetime Mean
+Confidence Intervals for an Exponential Lifetime Percentile
+Confidence Intervals for Exponential Reliability
+Confidence Intervals for the Exponential Hazard Rate
+Group-Sequential Tests - 114 Scenarios
+Click here to see additional details about group-sequential procedures in PASS.
+Group-Sequential Tests for One Mean with Known Variance (Simulation)
+Group-Sequential T-Tests for One Mean (Simulation)
+Group-Sequential Tests for Two Means with Known Variances (Simulation)
+Group-Sequential T-Tests for Two Means (Simulation)
+Group-Sequential Tests for Two Proportions (Simulation)
+Group-Sequential Tests for Two Means
+Group-Sequential Tests for Two Means – Unequal n’s
+Group-Sequential Tests for Two Means (Simulation) Assuming Normality
+Group-Sequential Tests for Two Means (Simulation) Assuming Normality – Unequal n’s
+Group-Sequential Tests for Two Means (Simulation) General Assumptions
+Group-Sequential Tests for Two Means (Simulation) General Assumptions – Unequal n’s
+Group-Sequential Tests for Two Means (Simulation) General Assumptions – Mann-Whitney Test
+Group-Sequential Tests for Two Means (Simulation) General Assumptions – Mann-Whitney Test – Unequal n’s
+Group-Sequential Non-Inferiority Tests for Two Means
+Group-Sequential Non-Inferiority Tests for Two Means – Unequal n’s
+Group-Sequential Non-Inferiority Tests for Two Means – Mann-Whitney Test
+Group-Sequential Non-Inferiority Tests for Two Means – Mann-Whitney Test – Unequal n’s
+Group-Sequential Non-Inferiority Tests for Two Means with Known Variances (Simulation)
+Group-Sequential Non-Inferiority Tests for Two Means with Known Variances (Simulation) – Unequal n’s
+Group-Sequential Superiority by a Margin Tests for Two Means with Known Variances (Simulation)
+Group-Sequential Superiority by a Margin Tests for Two Means with Known Variances (Simulation) – Unequal n’s
+Group-Sequential Non-Inferiority T-Tests for Two Means (Simulation)
+Group-Sequential Non-Inferiority T-Tests for Two Means (Simulation) – Unequal n’s
+Group-Sequential Superiority by a Margin T-Tests for Two Means (Simulation)
+Group-Sequential Superiority by a Margin T-Tests for Two Means (Simulation) – Unequal n’s
+Group-Sequential Tests for One Proportion in a Fleming Design
+Group-Sequential Tests for Two Proportions
+Group-Sequential Tests for Two Proportions – Unequal n’s
+Group-Sequential Tests for Two Proportions (Simulation) – Z-Test (Pooled)
+Group-Sequential Tests for Two Proportions (Simulation) – Z-Test (Pooled) – Unequal n’s
+Group-Sequential Tests for Two Proportions (Simulation) – Z-Test (Unpooled)
+Group-Sequential Tests for Two Proportions (Simulation) – Z-Test (Unpooled) – Unequal n’s
+Group-Sequential Tests for Two Proportions (Simulation) – Z-Test (Pooled) with Continuity Correction
+Group-Sequential Tests for Two Proportions (Simulation) – Z-Test (Pooled) with Continuity Correction – Unequal n’s
+Group-Sequential Tests for Two Proportions (Simulation) – Z-Test (Unpooled) with Continuity Correction
+Group-Sequential Tests for Two Proportions (Simulation) – Z-Test (Unpooled) with Continuity Correction – Unequal n’s
+Group-Sequential Tests for Two Proportions (Simulation) – Mantel-Haenszel
+Group-Sequential Tests for Two Proportions (Simulation) – Mantel-Haenszel – Unequal n’s
+Group-Sequential Tests for Two Proportions (Simulation) – Fisher’s Exact
+Group-Sequential Tests for Two Proportions (Simulation) – Fisher’s Exact – Unequal n’s
+Group-Sequential Tests for Two Proportions using Differences (Simulation)
+Group-Sequential Tests for Two Proportions using Ratios (Simulation)
+Group-Sequential Tests for Two Proportions using Odds Ratios (Simulation)
+Group-Sequential Non-Inferiority Tests for Two Proportions (Simulation) – Z-Test (Pooled)
+Group-Sequential Non-Inferiority Tests for Two Proportions (Simulation) – Z-Test (Pooled) – Unequal n’s
+Group-Sequential Non-Inferiority Tests for Two Proportions (Simulation) – Z-Test (Unpooled)
+Group-Sequential Non-Inferiority Tests for Two Proportions (Simulation) – Z-Test (Unpooled) – Unequal n’s
+Group-Sequential Non-Inferiority Tests for Two Proportions (Simulation) – Z-Test (Pooled) with Continuity Correction
+Group-Sequential Non-Inferiority Tests for Two Proportions (Simulation) – Z-Test (Pooled) with Continuity Correction – Unequal n’s
+Group-Sequential Non-Inferiority Tests for Two Proportions (Simulation) – Z-Test (Unpooled) with Continuity Correction
+Group-Sequential Non-Inferiority Tests for Two Proportions (Simulation) – Z-Test (Unpooled) with Continuity Correction – Unequal n’s
+Group-Sequential Non-Inferiority Tests for Two Proportions (Simulation) – Likelihood Score (Farrington & Manning)
+Group-Sequential Non-Inferiority Tests for Two Proportions (Simulation) – Likelihood Score (Farrington & Manning) – Unequal n’s
+Group-Sequential Non-Inferiority Tests for Two Proportions (Simulation) – Likelihood Score (Miettinen & Nurminen)
+Group-Sequential Non-Inferiority Tests for Two Proportions (Simulation) – Likelihood Score (Miettinen & Nurminen) – Unequal n’s
+Group-Sequential Non-Inferiority Tests for Two Proportions (Simulation) – Likelihood Score (Gart & Nam)
+Group-Sequential Non-Inferiority Tests for Two Proportions (Simulation) – Likelihood Score (Gart & Nam) – Unequal n’s
+Group-Sequential Non-Inferiority Tests for Two Proportions using Differences (Simulation)
+Group-Sequential Non-Inferiority Tests for Two Proportions using Ratios (Simulation)
+Group-Sequential Non-Inferiority Tests for Two Proportions using Odds Ratios (Simulation)
+Group-Sequential Superiority by a Margin Tests for Two Proportions (Simulation) – Z-Test (Pooled)
+Group-Sequential Superiority by a Margin Tests for Two Proportions (Simulation) – Z-Test (Pooled) – Unequal n’s
+Group-Sequential Superiority by a Margin Tests for Two Proportions (Simulation) – Z-Test (Unpooled)
+Group-Sequential Superiority by a Margin Tests for Two Proportions (Simulation) – Z-Test (Unpooled) – Unequal n’s
+Group-Sequential Superiority by a Margin Tests for Two Proportions (Simulation) – Z-Test (Pooled) with Continuity Correction
+Group-Sequential Superiority by a Margin Tests for Two Proportions (Simulation) – Z-Test (Pooled) with Continuity Correction – Unequal n’s
+Group-Sequential Superiority by a Margin Tests for Two Proportions (Simulation) – Z-Test (Unpooled) with Continuity Correction
+Group-Sequential Superiority by a Margin Tests for Two Proportions (Simulation) – Z-Test (Unpooled) with Continuity Correction – Unequal n’s
+Group-Sequential Superiority by a Margin Tests for Two Proportions (Simulation) – Likelihood Score (Farrington & Manning)
+Group-Sequential Superiority by a Margin Tests for Two Proportions (Simulation) – Likelihood Score (Farrington & Manning) – Unequal n’s
+Group-Sequential Superiority by a Margin Tests for Two Proportions (Simulation) – Likelihood Score (Miettinen & Nurminen)
+Group-Sequential Superiority by a Margin Tests for Two Proportions (Simulation) – Likelihood Score (Miettinen & Nurminen) – Unequal n’s
+Group-Sequential Superiority by a Margin Tests for Two Proportions (Simulation) – Likelihood Score (Gart & Nam)
+Group-Sequential Superiority by a Margin Tests for Two Proportions (Simulation) – Likelihood Score (Gart & Nam) – Unequal n’s
+Group-Sequential Superiority by a Margin Tests for Two Proportions using Differences (Simulation)
+Group-Sequential Superiority by a Margin Tests for Two Proportions using Ratios (Simulation)
+Group-Sequential Superiority by a Margin Tests for Two Proportions using Odds Ratios (Simulation)
+Group-Sequential Non-Inferiority Tests for Two Proportions (Simulation)
+Group-Sequential Non-Inferiority Tests for Two Proportions (Simulation) – Unequal n’s
+Group-Sequential Superiority by a Margin Tests for Two Proportions (Simulation)
+Group-Sequential Superiority by a Margin Tests for Two Proportions (Simulation) – Unequal n’s
+Group-Sequential Logrank Tests of Two Survival Curves assuming Exponential Survival
+Group-Sequential Logrank Tests of Two Survival Curves assuming Proportional Hazards
+Group-Sequential Logrank Tests (Simulation)
+Group-Sequential Logrank Tests (Simulation) – Unequal n’s
+Group-Sequential Logrank Tests (Simulation) – Gehan-Wilcoxon
+Group-Sequential Logrank Tests (Simulation) – Gehan-Wilcoxon – Unequal n’s
+Group-Sequential Logrank Tests (Simulation) – Tarone-Ware
+Group-Sequential Logrank Tests (Simulation) – Tarone-Ware – Unequal n’s
+Group-Sequential Logrank Tests (Simulation) – Peto-Peto
+Group-Sequential Logrank Tests (Simulation) – Peto-Peto – Unequal n’s
+Group-Sequential Logrank Tests (Simulation) – Modified Peto-Peto
+Group-Sequential Logrank Tests (Simulation) – Modified Peto-Peto – Unequal n’s
+Group-Sequential Logrank Tests (Simulation) – Fleming-Harrington Custom Parameters
+Group-Sequential Logrank Tests (Simulation) – Fleming-Harrington Custom Parameters – Unequal n’s
+Group-Sequential Logrank Tests using Hazard Rates (Simulation)
+Group-Sequential Logrank Tests using Median Survival Times (Simulation)
+Group-Sequential Logrank Tests using Proportion Surviving (Simulation)
+Group-Sequential Logrank Tests using Mortality (Simulation)
+Group-Sequential Tests for Two Hazard Rates (Simulation)
+Group-Sequential Tests for Two Hazard Rates (Simulation) – Unequal n’s
+Group-Sequential Non-Inferiority Tests for Two Hazard Rates (Simulation)
+Group-Sequential Non-Inferiority Tests for Two Hazard Rates (Simulation) – Unequal n’s
+Group-Sequential Superiority by a Margin Tests for Two Hazard Rates (Simulation)
+Group-Sequential Superiority by a Margin Tests for Two Hazard Rates (Simulation) – Unequal n’s
+Group-Sequential Tests for One Hazard Rate (Simulation)
+Group-Sequential Non-Inferiority Tests for One Hazard Rate (Simulation)
+Group-Sequential Superiority by a Margin Tests for One Hazard Rate (Simulation)
+Group-Sequential Tests for Two Poisson Rates (Simulation)
+Group-Sequential Non-Inferiority Tests for Two Poisson Rates (Simulation)
+Group-Sequential Superiority by a Margin Tests for Two Poisson Rates (Simulation)
+Group-Sequential Tests for One Poisson Rate (Simulation)
+Group-Sequential Non-Inferiority Tests for One Poisson Rate (Simulation)
+Group-Sequential Superiority by a Margin Tests for One Poisson Rate (Simulation)
+Means - One - 39 Scenarios
+Click here to see additional details about one mean procedures in PASS.
+Tests for One Mean – T-Test
+Tests for One Mean – Z-Test
+Tests for One Mean – Wilcoxon Nonparametric Adjustment
+Tests for One Mean – (Simulation) – T-Test
+Tests for One Mean – (Simulation) – Wilcoxon Test
+Tests for One Mean – (Simulation) – Sign Test
+Tests for One Mean – (Simulation) – Bootstrap Test
+Tests for One Mean – (Simulation) – Exponential Mean Test
+Tests for One Exponential Mean with Replacement
+Tests for One Exponential Mean without Replacement
+Tests for One Mean using Effect Size
+Tests for One Poisson Mean
+Confidence Intervals for One Mean
+Confidence Intervals for One Mean – Known Standard Deviation
+Confidence Intervals for One Mean with Tolerance Probability
+Confidence Intervals for One Mean with Tolerance Probability – Known Standard Deviation
+Confidence Intervals for One Mean in a Stratified Design
+Confidence Intervals for One Mean in a Cluster-Randomized Design
+Confidence Intervals for One Mean in a Stratified Cluster-Randomized Design
+Non-Inferiority Tests for One Mean
+Superiority by a Margin Tests for One Mean
+Multiple One-Sample T-Tests – False Discovery Rate
+Multiple One-Sample Z-Tests – False Discovery Rate
+Multiple One-Sample T-Tests – Experiment-wise Error Rate
+Multiple One-Sample Z-Tests – Experiment-wise Error Rate
+Conditional Power of One-Sample T-Tests
+Hotelling’s One-Sample T2
+Conditional Power of One-Sample T-Tests for Non-Inferiority
+Conditional Power of One-Sample T-Tests for Superiority by a Margin
+One-Sample T-Tests
+One-Sample Z-Tests
+One-Sample Z-Tests for Non-Inferiority
+One-Sample Z-Tests for Superiority by a Margin
+One-Sample Z-Tests for Equivalence
+Wilcoxon Signed-Rank Tests
+Wilcoxon Signed-Rank Tests for Non-Inferiority
+Wilcoxon Signed-Rank Tests for Superiority by a Margin
+Group-Sequential Tests for One Mean with Known Variance (Simulation)
+Group-Sequential T-Tests for One Mean (Simulation)
+Means - Two Correlated or Paired - 33 Scenarios
+Click here to see additional details about paired means procedures in PASS.
+Tests for Paired Means – T-Test
+Tests for Paired Means – Z-Test
+Tests for Paired Means (Simulation) – T-Test
+Tests for Paired Means (Simulation) – Wilcoxon Test
+Tests for Paired Means (Simulation) – Sign Test
+Tests for Paired Means (Simulation) – Bootstrap Test
+Tests for Paired Means using Effect Size
+Tests for the Matched-Pair Difference of Two Means in a Cluster-Randomized Design
+Tests for the Matched-Pair Difference of Two Event Rates in a Cluster-Randomized Design
+Confidence Intervals for Paired Means with Known Standard Deviation
+Confidence Intervals for Paired Means with Sample Standard Deviation
+Confidence Intervals for Paired Means with Tolerance Probability with Known Standard Deviation
+Confidence Intervals for Paired Means with Tolerance Probability with Sample Standard Deviation
+Superiority by a Margin Tests for Paired Means
+Equivalence Tests for Paired Means
+Non-Inferiority Tests for Paired Means
+Multiple Paired T-Tests
+Conditional Power of Paired T-Tests
+Paired T-Tests
+Paired T-Tests for Non-Inferiority
+Paired T-Tests for Superiority by a Margin
+Paired Z-Tests
+Paired Z-Tests for Non-Inferiority
+Paired Z-Tests for Superiority by a Margin
+Paired Z-Tests for Equivalence
+Paired Wilcoxon Signed-Rank Tests
+Paired Wilcoxon Signed-Rank Tests for Non-Inferiority
+Paired Wilcoxon Signed-Rank Tests for Superiority by a Margin
+Conditional Power of Paired T-Tests for Non-Inferiority
+Conditional Power of Paired T-Tests for Superiority by a Margin
+Meta-Analysis of Paired Means using a Fixed-Effects Model
+Meta-Analysis of Paired Means using a Random-Effects Model
+Tests for the Matched-Pair Difference of Two Means in a Cluster-Randomized Design with Missing Value Adjustment
+Means - Two Independent - 162 Scenarios
+Click here to see additional details about two independent means procedures in PASS.
+Two-Sample T-Tests Assuming Equal Variances
+Two-Sample T-Tests Assuming Equal Variances – Unequal n’s
+Two-Sample T-Tests Allowing Unequal Variances
+Two-Sample T-Tests Allowing Unequal Variances – Unequal n’s
+Tests for Two Means (Simulation) – T-Test
+Tests for Two Means (Simulation) – T-Test – Unequal n’s
+Tests for Two Means (Simulation) – Welch’s T-Test
+Tests for Two Means (Simulation) – Welch’s T-Test – Unequal n’s
+Tests for Two Means (Simulation) – Trimmed T-Test
+Tests for Two Means (Simulation) – Trimmed T-Test – Unequal n’s
+Tests for Two Means (Simulation) – Trimmed Welch’s T-Test
+Tests for Two Means (Simulation) – Trimmed Welch’s T-Test – Unequal n’s
+Two-Sample T-Tests using Effect Size
+Two-Sample T-Tests using Effect Size – Unequal n’s
+Mann-Whitney-Wilcoxon Tests (Simulation)
+Mann-Whitney-Wilcoxon Tests (Simulation) – Unequal n’s
+Two-Sample Z-Tests Assuming Equal Variances
+Two-Sample Z-Tests Assuming Equal Variances – Unequal n’s
+Two-Sample Z-Tests Allowing Unequal Variances
+Two-Sample Z-Tests Allowing Unequal Variances – Unequal n’s
+Tests for Two Means using Ratios
+Tests for Two Means using Ratios – Unequal n’s
+Tests for Two Exponential Means
+Tests for Two Exponential Means – Unequal n’s
+Tests for Two Poisson Means – MLE
+Tests for Two Poisson Means – MLE – Unequal n’s
+Tests for Two Poisson Means – CMLE
+Tests for Two Poisson Means – CMLE – Unequal n’s
+Tests for Two Poisson Means – Ln(MLE)
+Tests for Two Poisson Means – Ln(MLE) – Unequal n’s
+Tests for Two Poisson Means – Ln(CMLE)
+Tests for Two Poisson Means – Ln(CMLE) – Unequal n’s
+Tests for Two Poisson Means – Variance Stabilized
+Tests for Two Poisson Means – Variance Stabilized – Unequal n’s
+Tests for Two Poisson Rates in a Stepped-Wedge Cluster-Randomized Design - Complete Design
+Tests for Two Poisson Rates in a Stepped-Wedge Cluster-Randomized Design - Incomplete Design (Custom)
+Confidence Intervals for the Difference between Two Means Assuming Equal Standard Deviations
+Confidence Intervals for the Difference between Two Means Assuming Equal Standard Deviations – Unequal n’s
+Confidence Intervals for the Difference between Two Means Assuming Unequal Standard Deviations
+Confidence Intervals for the Difference between Two Means Assuming Unequal Standard Deviations – Unequal n’s
+Confidence Intervals for the Difference between Two Means with Tolerance Probability with Known Standard Deviation
+Confidence Intervals for the Difference between Two Means with Tolerance Probability with Known Standard Deviation – Unequal n’s
+Confidence Intervals for the Difference between Two Means with Tolerance Probability with Sample Standard Deviation
+Confidence Intervals for the Difference between Two Means with Tolerance Probability with Sample Standard Deviation – Unequal n’s
+Non-Inferiority Tests for Two Means using Differences
+Non-Inferiority Tests for Two Means using Differences – Unequal n’s
+Non-Inferiority Tests for Two Means using Ratios
+Non-Inferiority Tests for Two Means using Ratios – Unequal n’s
+Non-Inferiority Tests for the Ratio of Two Poisson Rates
+Non-Inferiority Tests for the Ratio of Two Poisson Rates – Unequal n’s
+Non-Inferiority Tests for the Ratio of Two Negative Binomial Rates
+Non-Inferiority Tests for the Ratio of Two Negative Binomial Rates – Unequal n’s
+Non-Inferiority Tests for Two Means in a Cluster-Randomized Design
+Group-Sequential Tests for Two Means
+Group-Sequential Tests for Two Means – Unequal n’s
+Group-Sequential Tests for Two Means (Simulation) Assuming Normality
+Group-Sequential Tests for Two Means (Simulation) Assuming Normality – Unequal n’s
+Group-Sequential Tests for Two Means (Simulation) General Assumptions
+Group-Sequential Tests for Two Means (Simulation) General Assumptions – Unequal n’s
+Group-Sequential Tests for Two Means (Simulation) General Assumptions – Mann-Whitney Test
+Group-Sequential Tests for Two Means (Simulation) General Assumptions – Mann-Whitney Test – Unequal n’s
+Group-Sequential Non-Inferiority Tests for Two Means
+Group-Sequential Non-Inferiority Tests for Two Means – Unequal n’s
+Group-Sequential Non-Inferiority Tests for Two Means – Mann-Whitney Test
+Group-Sequential Non-Inferiority Tests for Two Means – Mann-Whitney Test – Unequal n’s
+Group-Sequential Non-Inferiority Tests for Two Means with Known Variances (Simulation)
+Group-Sequential Non-Inferiority Tests for Two Means with Known Variances (Simulation) – Unequal n’s
+Group-Sequential Superiority by a Margin Tests for Two Means with Known Variances (Simulation)
+Group-Sequential Superiority by a Margin Tests for Two Means with Known Variances (Simulation) – Unequal n’s
+Group-Sequential Non-Inferiority T-Tests for Two Means (Simulation)
+Group-Sequential Non-Inferiority T-Tests for Two Means (Simulation) – Unequal n’s
+Group-Sequential Superiority by a Margin T-Tests for Two Means (Simulation)
+Group-Sequential Superiority by a Margin T-Tests for Two Means (Simulation) – Unequal n’s
+Equivalence Tests for Two Means using Differences
+Equivalence Tests for Two Means using Differences – Unequal n’s
+Equivalence Tests for Two Means using Ratios
+Equivalence Tests for the Ratio of Two Poisson Rates
+Equivalence Tests for the Ratio of Two Poisson Rates – Unequal n’s
+Equivalence Tests for the Ratio of Two Negative Binomial Rates
+Equivalence Tests for the Ratio of Two Negative Binomial Rates – Unequal n’s
+Equivalence Tests for Two Means in a Cluster-Randomized Design
+Equivalence Tests for the Ratio of Two Means (Normal Data)
+Equivalence Tests for Two Means using Ratios – Unequal n’s
+Equivalence Tests for Two Means (Simulation) – T-Test
+Equivalence Tests for Two Means (Simulation) – T-Test – Unequal n’s
+Equivalence Tests for Two Means (Simulation) – Welch Test
+Equivalence Tests for Two Means (Simulation) – Welch Test – Unequal n’s
+Equivalence Tests for Two Means (Simulation) – Trim T-Test
+Equivalence Tests for Two Means (Simulation) – Trim T-Test – Unequal n’s
+Equivalence Tests for Two Means (Simulation) – Trim Welch Test
+Equivalence Tests for Two Means (Simulation) – Trim Welch Test – Unequal n’s
+Equivalence Tests for Two Means (Simulation) – Mann-Whitney Test
+Equivalence Tests for Two Means (Simulation) – Mann-Whitney Test – Unequal n’s
+Superiority by a Margin Tests for Two Means using Differences
+Superiority by a Margin Tests for Two Means using Differences – Unequal n’s
+Superiority by a Margin Tests for Two Means using Ratios
+Superiority by a Margin Tests for Two Means using Ratios – Unequal n’s
+Superiority by a Margin Tests for the Ratio of Two Poisson Rates
+Superiority by a Margin Tests for the Ratio of Two Poisson Rates – Unequal n’s
+Superiority by a Margin Tests for the Ratio of Two Negative Binomial Rates
+Superiority by a Margin Tests for the Ratio of Two Negative Binomial Rates – Unequal n’s
+Superiority by a Margin Tests for Two Means in a Cluster-Randomized Design
+Tests for Two Means from a Cluster-Randomized Design
+Tests for Two Means from a Cluster-Randomized Design – Unequal n’s
+Tests for Two Means in a Stepped-Wedge Cluster-Randomized Design - Complete Design
+Tests for Two Means in a Stepped-Wedge Cluster-Randomized Design - Incomplete Design (Custom)
+Tests for Two Means in a Multicenter Randomized Design
+Multiple Two-Sample T-Tests – False-Discovery Rate
+Multiple Two-Sample T-Tests – False-Discovery Rate – Unequal n’s
+Multiple Two-Sample T-Tests – Experiment-wise Error Rate
+Multiple Two-Sample T-Tests – Experiment-wise Error Rate – Unequal n’s
+Tests for Two Means from a Repeated Measures Design
+Tests for Two Means from a Repeated Measures Design – Unequal n’s
+Tests for Two Groups of Pre-Post Scores
+Tests for Two Groups of Pre-Post Scores – Unequal n’s
+Conditional Power of Two-Sample T-Tests
+Conditional Power of Two-Sample T-Tests – Unequal n’s
+Hotelling's Two-Sample T-Squared
+Hotelling's Two-Sample T-Squared – Unequal n’s
+Tests for Fold Change of Two Means
+GEE Tests for the Slope of Two Groups in a Repeated Measures Design (Continuous Outcome)
+GEE Tests for the TAD of Two Groups in a Repeated Measures Design (Continuous Outcome)
+GEE Tests for Two Means in a Stratified Cluster-Randomized Design
+Mixed Models Tests for Two Means in a 2-Level Hierarchical Design (Level-2 Randomization)
+Mixed Models Tests for Two Means in a 2-Level Hierarchical Design (Level-1 Randomization)
+Mixed Models Tests for the Slope Difference in a 2-Level Hierarchical Design with Fixed Slopes
+Mixed Models Tests for the Slope Difference in a 2-Level Hierarchical Design with Random Slopes
+Mixed Models Tests for Two Means in a 3-Level Hierarchical Design (Level-3 Randomization)
+Mixed Models Tests for Two Means in a 3-Level Hierarchical Design (Level-2 Randomization)
+Mixed Models Tests for Two Means in a 3-Level Hierarchical Design (Level-1 Randomization)
+Mixed Models Tests for the Slope Diff. in a 3-Level Hier. Design with Fixed Slopes (Level-2 Rand.)
+Mixed Models Tests for the Slope Diff. in a 3-Level Hier. Design with Random Slopes (Level-2 Rand.)
+Mixed Models Tests for the Slope Diff. in a 3-Level Hier. Design with Fixed Slopes (Level-3 Rand.)
+Mixed Models Tests for the Slope Diff. in a 3-Level Hier. Design with Random Slopes (Level-3 Rand.)
+Group-Sequential Tests for Two Means with Known Variances (Simulation)
+Group-Sequential T-Tests for Two Means (Simulation)
+Conditional Power of Two-Sample T-Tests for Non-Inferiority
+Conditional Power of Two-Sample T-Tests for Superiority by a Margin
+Mixed Models Tests for Two Means at the End of Follow-Up in a 3-Level Hierarchical Design (Level-3 Randomization)
+Mixed Models Tests for Two Means at the End of Follow-Up in a 2-Level Hierarchical Design
+Two-Sample T-Tests for Non-Inferiority Assuming Equal Variance
+Two-Sample T-Tests for Non-Inferiority Allowing Unequal Variance
+Two-Sample T-Tests for Superiority by a Margin Assuming Equal Variance
+Two-Sample T-Tests for Superiority by a Margin Allowing Unequal Variance
+Two-Sample T-Tests for Equivalence Allowing Unequal Variance
+Mann-Whitney U or Wilcoxon Rank-Sum Tests
+Mann-Whitney U or Wilcoxon Rank-Sum Tests for Non-Inferiority
+Mann-Whitney U or Wilcoxon Rank-Sum Tests for Superiority by a Margin
+GEE Tests for Two Means in a Stratified Cluster-Randomized Design
+GEE Tests for Two Means in a Cluster-Randomized Design
+Tests for Two Means in a Split-Mouth Design
+Mixed Models Tests for Two Means in a Cluster-Randomized Design
+Meta-Analysis of Means using a Fixed-Effects Model
+Meta-Analysis of Means using a Random-Effects Model
+Meta-Analysis of Means using a Fixed-Effects Model in a Cluster-Randomized Design
+Meta-Analysis of Means using a Random-Effects Model in a Cluster-Randomized Design
+Tests for Two Means in a Cluster-Randomized Design with Clustering in Only One Arm
+Superiority by a Margin Tests for Two Means in a Cluster-Randomized Design with Clustering in Only One Arm
+Equivalence Tests for Two Means in a Cluster-Randomized Design with Clustering in Only One Arm
+Tests for the Difference Between Two Means using Historical Controls
+Means - 2x2 Cross-Over Designs - 11 Scenarios
+Click here to see additional details about cross-over designs for two means procedures in PASS.
+Tests for Two Means in a 2x2 Cross-Over Design using Differences
+Tests for Two Means in a 2x2 Cross-Over Design using Ratios
+Non-Inferiority Tests for Two Means in a 2x2 Cross-Over Design using Differences
+Non-Inferiority Tests for Two Means in a 2x2 Cross-Over Design using Ratios
+Equivalence Tests for Two Means in a 2x2 Cross-Over Design using Differences
+Equivalence Tests for Two Means in a 2x2 Cross-Over Design using Ratios
+Superiority by a Margin Tests for Two Means in a 2x2 Cross-Over Design using Differences
+Superiority by a Margin Tests for Two Means in a 2x2 Cross-Over Design using Ratios
+Conditional Power of 2x2 Cross-Over Designs
+Conditional Power of Non-Inferiority Tests for Two Means in a 2x2 Cross-Over Design
+Conditional Power of Superiority by a Margin Tests for Two Means in a 2x2 Cross-Over Design
+Means - Higher-Order Cross-Over Designs - 14 Scenarios
+Click here to see additional details about higher-order cross-over designs for means procedures in PASS.
+Non-Inferiority Tests for Two Means in a Higher-Order Cross-Over Design using Differences
+Non-Inferiority Tests for Two Means in a Higher-Order Cross-Over Design using Ratios
+Equivalence Tests for Two Means in a Higher-Order Cross-Over Design using Differences
+Equivalence Tests for Two Means in a Higher-Order Cross-Over Design using Ratios
+Superiority by a Margin Tests for Two Means in a Higher-Order Cross-Over Design using Differences
+Superiority by a Margin Tests for Two Means in a Higher-Order Cross-Over Design using Ratios
+Tests for the Difference of Two Means in a Higher-Order Cross-Over Design
+Tests for the Ratio of Two Means in a Higher-Order Cross-Over Design
+M x M Cross-Over Designs
+M-Period Cross-Over Designs using Contrasts
+Tests for Pairwise Mean Differences in a Williams Cross-Over Design
+Non-Inferiority Tests for Pairwise Mean Differences in a Williams Cross-Over Design
+Superiority by a Margin Tests for Pairwise Mean Differences in a Williams Cross-Over Design
+Equivalence Tests for Pairwise Mean Differences in a Williams Cross-Over Design
+Means - Many (ANOVA) - 73 Scenarios
+Click here to see additional details about multiple means procedures in PASS.
+One-Way Analysis of Variance
+One-Way Analysis of Variance – Unequal n’s
+One-Way Analysis of Variance F-Tests (Simulation)
+One-Way Analysis of Variance F-Tests (Simulation) – Unequal n’s
+One-Way Analysis of Variance F-Tests using Effect Size
+One-Way Analysis of Variance F-Tests using Effect Size – Unequal n’s
+Power Comparison of Tests of Means in One-Way Designs (Simulation)
+Power Comparison of Tests of Means in One-Way Designs (Simulation) – Unequal n’s
+Analysis of Covariance (ANCOVA)
+One-Way Analysis of Variance Contrasts
+One-Way Analysis of Variance Contrasts
+Analysis of Covariance (ANCOVA) – Unequal n’s
+Kruskal-Wallis Tests (Simulation)
+Kruskal-Wallis Tests (Simulation) – Unequal n’s
+Terry-Hoeffding Normal-Scores Tests of Means (Simulation)
+Terry-Hoeffding Normal-Scores Tests of Means (Simulation) – Unequal n’s
+Van der Waerden Normal Quantiles Tests of Means (Simulation)
+Van der Waerden Normal Quantiles Tests of Means (Simulation) – Unequal n’s
+Pair-wise Multiple Comparisons (Simulation) – Tukey-Kramer
+Pair-wise Multiple Comparisons (Simulation) – Tukey-Kramer – Unequal n’s
+Pair-wise Multiple Comparisons (Simulation) – Kruskal-Wallis
+Pair-wise Multiple Comparisons (Simulation) – Kruskal-Wallis – Unequal n’s
+Pair-wise Multiple Comparisons (Simulation) – Games-Howell
+Pair-wise Multiple Comparisons (Simulation) – Games-Howell – Unequal n’s
+Multiple Comparisons of Treatments vs. a Control (Simulation) – Dunnett
+Multiple Comparisons of Treatments vs. a Control (Simulation) – Dunnett – Unequal n’s
+Multiple Comparisons of Treatments vs. a Control (Simulation) – Kruskal-Wallis
+Multiple Comparisons of Treatments vs. a Control (Simulation) – Kruskal-Wallis – Unequal n’s
+Multiple Comparisons – All Pairs – Tukey-Kramer
+Multiple Comparisons – All Pairs – Tukey-Kramer – Unequal n’s
+Multiple Comparisons – With Best – Hsu
+Multiple Comparisons – With Best – Hsu – Unequal n’s
+Multiple Comparisons – With Control – Dunnett
+Multiple Comparisons – With Control – Dunnett – Unequal n’s
+Multiple Contrasts (Simulation) – Dunn-Bonferroni
+Multiple Contrasts (Simulation) – Dunn-Bonferroni – Unequal n’s
+Multiple Contrasts (Simulation) – Dunn-Welch
+Multiple Contrasts (Simulation) – Dunn-Welch – Unequal n’s
+Williams Test for the Minimum Effective Dose
+Factorial Analysis of Variance
+Factorial Analysis of Variance using Effect Size
+Randomized Block Analysis of Variance
+Repeated Measures Analysis
+Repeated Measures Analysis – Unequal n’s
+One-Way Repeated Measures
+One-Way Repeated Measures Contrasts
+Confidence Intervals for One-Way Repeated Measures Contrasts
+MANOVA
+MANOVA – Unequal n’s
+Mixed Models
+Mixed Models – Unequal n’s
+GEE Tests for the Slope of Multiple Groups in a Repeated Measures Design (Continuous Outcome)
+GEE Tests for the TAD of Multiple Groups in a Repeated Measures Design (Continuous Outcome)
+GEE Tests for Multiple Means in a Cluster-Randomized Design
+Multi-Arm Tests of the Difference Between Treatment and Control Means Assuming Equal Variance
+Multi-Arm, Non-Inferiority Tests of the Difference Between Treatment and Control Means Assuming Equal Variance
+Multi-Arm, Superiority by a Margin Tests of the Difference Between Treatment and Control Means Assuming Equal Variance
+Multi-Arm, Equivalence Tests of the Difference Between Treatment and Control Means Assuming Equal Variance
+Multi-Arm Tests of the Ratio of Treatment and Control Means Assuming Normal Data with Equal Variances
+Multi-Arm, Non-Inferiority Tests of the Ratio of Treatment and Control Means Assuming Normal Data with Equal Variances
+Multi-Arm, Superiority by a Margin Tests of the Ratio of Treatment and Control Means Assuming Normal Data with Equal Variance
+Multi-Arm, Equivalence Tests of the Ratio of Treatment and Control Means Assuming Normal Data with Equal Variance
+Multi-Arm Tests of the Ratio of Treatment and Control Means Assuming Log-Normal Data
+Multi-Arm, Non-Inferiority Tests of the Ratio of Treatment and Control Means Assuming Log-Normal Data
+Multi-Arm, Superiority by a Margin Tests of the Ratio of Treatment and Control Means Assuming Log-Normal Data
+Multi-Arm, Equivalence Tests of the Ratio of Treatment and Control Means Assuming Log-Normal Data
+Multi-Arm Tests of the Difference Between Treatment and Control Means Allowing Unequal Variances
+Multi-Arm, Non-Inferiority Tests of the Difference Between Treatment and Control Means Allowing Unequal Variances
+Multi-Arm, Superiority by a Margin Tests of the Difference Between Treatment and Control Means Allowing Unequal Variances
+Multi-Arm, Equivalence Tests of the Difference Between Treatment and Control Means Allowing Unequal Variances
+Multi-Arm Tests for Treatment and Control Means in a Cluster-Randomized Design
+Multi-Arm, Non-Inferiority Tests for Treatment and Control Means in a Cluster-Randomized Design
+Multi-Arm Equivalence Tests for Treatment and Control Means in a Cluster-Randomized Design
+Multi-Arm Superiority by a Margin Tests for Treatment and Control Means in a Cluster-Randomized Design
+Mediation Effects - 6 Scenarios
+Tests of Mediation Effect using the Sobel Test
+Tests of Mediation Effect in Linear Regression
+Tests of Mediation Effect in Logistic Regression
+Tests of Mediation Effect in Poisson Regression
+Tests of Mediation Effect in Cox Regression
+Joint Tests of Mediation in Linear Regression with Continuous Variables
+Meta-Analysis - 16 Scenarios
+Meta-Analysis of Means using a Fixed-Effects Model
+Meta-Analysis of Means using a Random-Effects Model
+Meta-Analysis of Paired Means using a Fixed-Effects Model
+Meta-Analysis of Paired Means using a Random-Effects Model
+Meta-Analysis of Means using a Fixed-Effects Model in a Cluster-Randomized Design
+Meta-Analysis of Means using a Random-Effects Model in a Cluster-Randomized Design
+Meta-Analysis of Correlations using a Fixed-Effects Model
+Meta-Analysis of Correlations using a Random-Effects Model
+Meta-Analysis of Tests for the Odds Ratio of Two Proportions using a Fixed-Effects Model
+Meta-Analysis of Tests for the Odds Ratio of Two Proportions using a Random-Effects Model
+Meta-Analysis of Tests for the Risk Ratio of Two Proportions using a Fixed-Effects Model
+Meta-Analysis of Tests for the Risk Ratio of Two Proportions using a Random-Effects Model
+Meta-Analysis of Tests for the Odds Ratio of Two Proportions using a Fixed-Effects Model in a Cluster-Randomized Design
+Meta-Analysis of Tests for the Odds Ratio of Two Proportions using a Random-Effects Model in a Cluster-Randomized Design
+Meta-Analysis of Tests for the Risk Ratio of Two Proportions using a Fixed-Effects Model in a Cluster-Randomized Design
+Meta-Analysis of Tests for the Risk Ratio of Two Proportions using a Random-Effects Model in a Cluster-Randomized Design
+Michaelis-Menten Parameters - 2 Scenarios
+Confidence Intervals for Michaelis-Menten Parameters
+Confidence Intervals for Michaelis-Menten Parameters – Unequal n’s
+Mixed Models - 30 Scenarios
+Mixed Models
+Mixed Models – Unequal n’s
+Mixed Models Tests for Two Means in a 2-Level Hierarchical Design (Level-2 Randomization)
+Mixed Models Tests for Two Means in a 2-Level Hierarchical Design (Level-1 Randomization)
+Mixed Models Tests for the Slope Difference in a 2-Level Hierarchical Design with Fixed Slopes
+Mixed Models Tests for the Slope Difference in a 2-Level Hierarchical Design with Random Slopes
+Mixed Models Tests for Two Means in a 3-Level Hierarchical Design (Level-3 Randomization)
+Mixed Models Tests for Two Means in a 3-Level Hierarchical Design (Level-2 Randomization)
+Mixed Models Tests for Two Means in a 3-Level Hierarchical Design (Level-1 Randomization)
+Mixed Models Tests for the Slope Diff. in a 3-Level Hier. Design with Fixed Slopes (Level-2 Rand.)
+Mixed Models Tests for the Slope Diff. in a 3-Level Hier. Design with Random Slopes (Level-2 Rand.)
+Mixed Models Tests for the Slope Diff. in a 3-Level Hier. Design with Fixed Slopes (Level-3 Rand.)
+Mixed Models Tests for the Slope Diff. in a 3-Level Hier. Design with Random Slopes (Level-3 Rand.)
+Mixed Models Tests for Two Means at the End of Follow-Up in a 3-Level Hierarchical Design (Level-3 Randomization)
+Mixed Models Tests for Two Means at the End of Follow-Up in a 2-Level Hierarchical Design
+Mixed Models Tests for Two Means at the End of Follow-Up in a 3-Level Hierarchical Design (Level-3 Randomization)
+Mixed Models Tests for Two Means at the End of Follow-Up in a 2-Level Hierarchical Design
+Mixed Models Tests for Interaction in a 2×2 Factorial 2-Level Hierarchical Design (Level-2 Randomization)
+Mixed Models Tests for Interaction in a 2×2 Factorial 2-Level Hierarchical Design (Level-1 Randomization)
+Mixed Models Tests for Interaction in a 2×2 Factorial 3-Level Hierarchical Design (Level-3 Randomization)
+Mixed Models Tests for Interaction in a 2×2 Factorial 3-Level Hierarchical Design (Level-2 Randomization)
+Mixed Models Tests for Interaction in a 2×2 Factorial 3-Level Hierarchical Design (Level-1 Randomization)
+Mixed Models Tests for Slope-Interaction in a 2×2 Factorial 3-Level Hierarchical Design with Random Slopes (Level-3 Randomization)
+Mixed Models Tests for Slope-Interaction in a 2×2 Factorial 3-Level Hierarchical Design with Random Slopes (Level-2 Randomization)
+Mixed Models Tests for Slope-Interaction in a 2×2 Factorial 2-Level Hierarchical Design with Random Slopes (Level-2 Randomization)
+Mixed Models Tests for Slope-Interaction in a 2×2 Factorial 3-Level Hierarchical Design with Fixed Slopes (Level-3 Randomization)
+Mixed Models Tests for Slope-Interaction in a 2×2 Factorial 3-Level Hierarchical Design with Fixed Slopes (Level-2 Randomization)
+Mixed Models Tests for Slope-Interaction in a 2×2 Factorial 2-Level Hierarchical Design with Fixed Slopes (Level-2 Randomization)
+Mixed Models Tests for Two Means in a Cluster-Randomized Design
+Mixed Models Tests for Interaction in a 2×2 Factorial Model for Repeatedly Measured Correlated (Longitudinal) Data
+Non-Inferiority - 119 Scenarios
+Non-Inferiority Tests for One Mean
+Non-Inferiority Tests for Two Means using Differences
+Non-Inferiority Tests for Two Means using Differences – Unequal n’s
+Non-Inferiority Tests for Two Means using Ratios
+Non-Inferiority Tests for Two Means using Ratios – Unequal n’s
+Non-Inferiority Tests for the Ratio of Two Poisson Rates
+Non-Inferiority Tests for the Ratio of Two Poisson Rates – Unequal n’s
+Non-Inferiority Tests for the Ratio of Two Negative Binomial Rates
+Non-Inferiority Tests for the Ratio of Two Negative Binomial Rates – Unequal n’s
+Group-Sequential Non-Inferiority Tests for Two Means
+Group-Sequential Non-Inferiority Tests for Two Means – Unequal n’s
+Group-Sequential Non-Inferiority Tests for Two Means – Mann-Whitney Test
+Group-Sequential Non-Inferiority Tests for Two Means – Mann-Whitney Test – Unequal n’s
+Non-Inferiority Tests for Two Means in a 2x2 Cross-Over Design using Differences
+Non-Inferiority Tests for Two Means in a 2x2 Cross-Over Design using Ratios
+Non-Inferiority Tests for Two Means in a Higher-Order Cross-Over Design using Differences
+Non-Inferiority Tests for Two Means in a Higher-Order Cross-Over Design using Ratios
+Non-Inferiority Tests for Two Means in a Cluster-Randomized Design
+Non-Inferiority Tests for One Proportion – Exact
+Non-Inferiority Tests for One Proportion – Z-Test using S(P0)
+Non-Inferiority Tests for One Proportion – Z-Test using S(P0) with Continuity Correction
+Non-Inferiority Tests for One Proportion – Z-Test using S(Phat)
+Non-Inferiority Tests for One Proportion – Z-Test using S(Phat) with Continuity Correction
+Non-Inferiority Tests for One Proportion using Differences
+Non-Inferiority Tests for One Proportion using Ratios
+Non-Inferiority Tests for One Proportion using Odds Ratios
+Non-Inferiority Tests for Two Proportions – Z-Test (Pooled)
+Non-Inferiority Tests for Two Proportions – Z-Test (Pooled) – Unequal n’s
+Non-Inferiority Tests for Two Proportions – Z-Test (Unpooled)
+Non-Inferiority Tests for Two Proportions – Z-Test (Unpooled) – Unequal n’s
+Non-Inferiority Tests for Two Proportions – Z-Test (Pooled) with Continuity Correction
+Non-Inferiority Tests for Two Proportions – Z-Test (Pooled) with Continuity Correction – Unequal n’s
+Non-Inferiority Tests for Two Proportions – Z-Test (Unpooled) with Continuity Correction
+Non-Inferiority Tests for Two Proportions – Z-Test (Unpooled) with Continuity Correction – Unequal n’s
+Non-Inferiority Tests for Two Proportions – Likelihood Score (Farrington & Manning)
+Non-Inferiority Tests for Two Proportions – Likelihood Score (Farrington & Manning) – Unequal n’s
+Non-Inferiority Tests for Two Proportions – Likelihood Score (Miettinen & Nurminen)
+Non-Inferiority Tests for Two Proportions – Likelihood Score (Miettinen & Nurminen) – Unequal n’s
+Non-Inferiority Tests for Two Proportions – Likelihood Score (Gart & Nam)
+Non-Inferiority Tests for Two Proportions – Likelihood Score (Gart & Nam) – Unequal n’s
+Non-Inferiority Tests for Two Proportions using Differences
+Non-Inferiority Tests for Two Proportions using Ratios
+Non-Inferiority Tests for Two Proportions using Odds Ratios
+Group-Sequential Non-Inferiority Tests for Two Proportions (Simulation) – Likelihood Score (Farrington & Manning)
+Group-Sequential Non-Inferiority Tests for Two Proportions (Simulation) – Likelihood Score (Farrington & Manning) – Unequal n’s
+Group-Sequential Non-Inferiority Tests for Two Proportions (Simulation) – Likelihood Score (Miettinen & Nurminen)
+Group-Sequential Non-Inferiority Tests for Two Proportions (Simulation) – Likelihood Score (Miettinen & Nurminen) – Unequal n’s
+Group-Sequential Non-Inferiority Tests for Two Proportions (Simulation) – Likelihood Score (Gart & Nam)
+Group-Sequential Non-Inferiority Tests for Two Proportions using Differences (Simulation)
+Group-Sequential Non-Inferiority Tests for Two Proportions using Ratios (Simulation)
+Group-Sequential Non-Inferiority Tests for Two Proportions using Odds Ratios (Simulation)
+Group-Sequential Non-Inferiority Tests for Two Hazard Rates (Simulation)
+Group-Sequential Non-Inferiority Tests for Two Hazard Rates (Simulation) – Unequal n’s
+Group-Sequential Non-Inferiority Tests for Two Means with Known Variances (Simulation)
+Group-Sequential Non-Inferiority Tests for Two Means with Known Variances (Simulation) – Unequal n’s
+Group-Sequential Non-Inferiority T-Tests for Two Means (Simulation)
+Group-Sequential Non-Inferiority T-Tests for Two Means (Simulation) – Unequal n’s
+Group-Sequential Non-Inferiority Tests for Two Proportions (Simulation)
+Group-Sequential Non-Inferiority Tests for Two Proportions (Simulation) – Unequal n’s
+Non-Inferiority Tests for Two Correlated Proportions using Differences
+Non-Inferiority Tests for Two Correlated Proportions using Ratios
+Non-Inferiority Tests for Two Proportions in a Cluster-Randomized Design – Z-Test (Pooled)
+Non-Inferiority Tests for Two Proportions in a Cluster-Randomized Design – Z-Test (Pooled) – Unequal n’s
+Non-Inferiority Tests for Two Proportions in a Cluster-Randomized Design – Z-Test (Unpooled)
+Non-Inferiority Tests for Two Proportions in a Cluster-Randomized Design – Z-Test (Unpooled) – Unequal n’s
+Non-Inferiority Tests for Two Proportions in a Cluster-Randomized Design – Likelihood Score (Farrington & Manning)
+Non-Inferiority Tests for Two Proportions in a Cluster-Randomized Design – Likelihood Score (Farrington & Manning) – Unequal n’s
+Non-Inferiority Tests for Two Proportions in a Cluster-Randomized Design using Differences
+Non-Inferiority Tests for Two Proportions in a Cluster-Randomized Design using Ratios
+Non-Inferiority Tests for Two Survival Curves Using Cox’s Proportional Hazards Model
+Non-Inferiority Tests for Two Survival Curves Using Cox’s Proportional Hazards Model – Unequal n’s
+Non-Inferiority Tests for the Difference of Two Hazard Rates Assuming an Exponential Model
+Non-Inferiority Tests for the Difference of Two Hazard Rates Assuming an Exponential Model – Unequal n’s
+Non-Inferiority Logrank Tests
+Non-Inferiority Logrank Tests – Unequal n’s
+Non-Inferiority Tests for the Odds Ratio of Two Proportions in a 2x2 Cross-Over Design
+Non-Inferiority Tests for the Difference of Two Proportions in a 2x2 Cross-Over Design
+Non-Inferiority Tests for the Ratio of Two Poisson Rates in a 2x2 Cross-Over Design
+Non-Inferiority Tests for the Generalized Odds Ratio for Ordinal Data in a 2x2 Cross-Over Design
+Non-Inferiority Tests for Pairwise Proportion Differences in a Williams Cross-Over Design
+Non-Inferiority Tests for Pairwise Mean Differences in a Williams Cross-Over Design
+Conditional Power of Two-Sample T-Tests for Non-Inferiority
+Conditional Power of Non-Inferiority Tests for the Difference Between Two Proportions
+Conditional Power of Non-Inferiority Logrank Tests
+Conditional Power of Non-Inferiority Tests for Two Means in a 2x2 Cross-Over Design
+Conditional Power of One-Sample T-Tests for Non-Inferiority
+Conditional Power of Paired T-Tests for Non-Inferiority
+Conditional Power of Non-Inferiority Tests for One Proportion
+Non-Inferiority Tests for Simple Linear Regression
+Non-Inferiority Tests for the Ratio of Two Within-Subject Variances in a Parallel Design
+Non-Inferiority Tests for the Ratio of Two Within-Subject Variances in a 2×2M Replicated Cross-Over Design
+Non-Inferiority Tests for the Difference of Two Within-Subject CV's in a Parallel Design
+Non-Inferiority Tests for the Ratio of Two Variances
+Non-Inferiority Tests for Two Between-Subject Variances in a 2×2M Replicated Cross-Over Design
+Non-Inferiority Tests for Two Total Variances in a 2×2M Replicated Cross-Over Design
+Non-Inferiority Tests for Two Total Variances in a Replicated Design
+Non-Inferiority Tests for Two Total Variances in a 2×2 Cross-Over Design
+Non-Inferiority Tests for Two Between Variances in a Replicated Design
+One-Sample Z-Tests for Non-Inferiority
+Wilcoxon Signed-Rank Tests for Non-Inferiority
+Paired T-Tests for Non-Inferiority
+Paired Z-Tests for Non-Inferiority
+Paired Wilcoxon Signed-Rank Tests for Non-Inferiority
+Two-Sample T-Tests for Non-Inferiority Allowing Unequal Variance
+Two-Sample T-Tests for Non-Inferiority Assuming Equal Variance
+Mann-Whitney U or Wilcoxon Rank-Sum Tests for Non-Inferiority
+Multi-Arm, Non-Inferiority Tests of the Difference Between Treatment and Control Proportions
+Multi-Arm, Non-Inferiority Tests of the Ratio of Treatment and Control Proportions
+Multi-Arm, Non-Inferiority Tests of the Odds Ratio of Treatment and Control Proportions
+Multi-Arm, Non-Inferiority Tests for Treatment and Control Proportions in a Cluster-Randomized Design
+Multi-Arm, Non-Inferiority Tests of the Difference Between Treatment and Control Means Assuming Equal Variance
+Multi-Arm, Non-Inferiority Tests of the Ratio of Treatment and Control Means Assuming Normal Data with Equal Variances
+Multi-Arm, Non-Inferiority Tests of the Ratio of Treatment and Control Means Assuming Log-Normal Data
+Multi-Arm, Non-Inferiority Tests of the Difference Between Treatment and Control Means Allowing Unequal Variances
+Multi-Arm, Non-Inferiority Tests for Treatment and Control Means in a Cluster-Randomized Design
+Multi-Arm, Non-Inferiority Tests Comparing Treatment and Control Survival Curves Using the Cox's Proportional Hazards Model
+Multi-Arm, Non-Inferiority Tests for Vaccine Efficacy Using the Ratio of Treatment and Control Proportions
+Multi-Arm, Non-Inferiority Tests for Vaccine Efficacy Comparing Treatment and Control Survival Curves Using the Cox's Proportional Hazards Model
+Non-Inferiority Tests for Two Means in a Cluster-Randomized Design with Clustering in Only One Arm
+Non-Inferiority Tests for Two Proportions in a Cluster-Randomized Design with Clustering in Only One Arm
+Multi-Arm Non-Inferiority Tests for the Ratio of Treatment and Control Proportions in a Cluster-Randomized Design
+Multi-Arm Non-Inferiority Tests for Vaccine Efficacy using the Ratio of Treatment and Control Proportions in a Cluster-Randomized Design
+Multi-Arm Non-Inferiority Tests for Survival Curves using Cox's Proportional Hazards in a Cluster-Randomized Design
+Non-Inferiority Tests for Two Survival Curves using Cox's Proportional Hazards in a Cluster-Randomized Design
+Non-Inferiority Tests for the Ratio of Two Recurrent Event Rates Assuming the Andersen-Gill Model
+Non-Inferiority Tests for the Difference Between Two Correlated Proportions (Conditional McNemar's Test)
+Non-Inferiority Tests for the Ratio of Two Poisson Rates in a Cluster-Randomized Design using GEE
+Non-Inferiority Tests for Vaccine Efficacy using the Ratio of Two Poisson Rates in a Cluster-Randomized Design using GEE
+Nonparametric - 41 Scenarios
+Spearman’s Rank Correlation Tests with Simulation
+Kendall’s Tau-b Correlation Tests with Simulation
+Power Comparison of Correlation Tests with Simulation
+Tests for One Mean – (Simulation) – Wilcoxon Test
+Tests for One Mean – (Simulation) – Sign Test
+Tests for One Mean – (Simulation) – Bootstrap Test
+Tests for Paired Means (Simulation) – Wilcoxon Test
+Tests for Paired Means (Simulation) – Sign Test
+Tests for Paired Means (Simulation) – Bootstrap Test
+Mann-Whitney-Wilcoxon Tests (Simulation)
+Mann-Whitney-Wilcoxon Tests (Simulation) – Unequal n’s
+Equivalence Tests for Two Means (Simulation) – Mann-Whitney Test
+Equivalence Tests for Two Means (Simulation) – Mann-Whitney Test – Unequal n’s
+Group-Sequential Tests for Two Means (Simulation) General Assumptions – Mann-Whitney Test
+Group-Sequential Tests for Two Means (Simulation) General Assumptions – Mann-Whitney Test – Unequal n’s
+Group-Sequential Non-Inferiority Tests for Two Means – Mann-Whitney Test
+Group-Sequential Non-Inferiority Tests for Two Means – Mann-Whitney Test – Unequal n’s
+Power Comparison of Tests of Means in One-Way Designs (Simulation)
+Power Comparison of Tests of Means in One-Way Designs (Simulation) – Unequal n’s
+Kruskal-Wallis Tests (Simulation)
+Kruskal-Wallis Tests (Simulation) – Unequal n’s
+Terry-Hoeffding Normal-Scores Tests of Means (Simulation)
+Terry-Hoeffding Normal-Scores Tests of Means (Simulation) – Unequal n’s
+Van der Waerden Normal Quantiles Tests of Means (Simulation)
+Van der Waerden Normal Quantiles Tests of Means (Simulation) – Unequal n’s
+Pair-wise Multiple Comparisons (Simulation) – Kruskal-Wallis
+Pair-wise Multiple Comparisons (Simulation) – Kruskal-Wallis – Unequal n’s
+Multiple Comparisons of Treatments vs. a Control (Simulation) – Kruskal-Wallis
+Multiple Comparisons of Treatments vs. a Control (Simulation) – Kruskal-Wallis – Unequal n’s
+Nonparametric Reference Intervals for Non-Normal Data
+Wilcoxon Signed-Rank Tests
+Wilcoxon Signed-Rank Tests for Non-Inferiority
+Wilcoxon Signed-Rank Tests for Superiority by a Margin
+Paired Wilcoxon Signed-Rank Tests
+Paired Wilcoxon Signed-Rank Tests for Non-Inferiority
+Paired Wilcoxon Signed-Rank Tests for Superiority by a Margin
+Mann-Whitney U or Wilcoxon Rank-Sum Tests
+Mann-Whitney U or Wilcoxon Rank-Sum Tests for Non-Inferiority
+Mann-Whitney U or Wilcoxon Rank-Sum Tests for Superiority by a Margin
+Mann-Whitney U or Wilcoxon Rank-Sum Tests (Noether)
+Stratified Wilcoxon-Mann-Whitney (van Elteren) Test
+Non-Zero and Non-Unity Null Tests - 11 Scenarios
+Non-Zero Null Tests for Simple Linear Regression
+Non-Zero Null Tests for Simple Linear Regression using R-Squared
+Non-Unity Null Tests for the Ratio of Within-Subject Variances in a Parallel Design
+Non-Unity Null Tests for the Ratio of Within-Subject Variances in a 2×2M Replicated Cross-Over Design
+Non-Zero Null Tests for the Difference of Two Within-Subject CV's in a Parallel Design
+Non-Unity Null Tests for the Ratio of Two Variances
+Non-Unity Null Tests for Two Between-Subject Variances in a 2×2M Replicated Cross-Over Design
+Non-Unity Null Tests for Two Total Variances in a 2×2M Replicated Cross-Over Design
+Non-Unity Null Tests for Two Total Variances in a 2×2 Cross-Over Design
+Non-Unity Null Tests for Two Total Variances in a Replicated Design
+Non-Unity Null Tests for Two Between Variances in a Replicated Design
+Normality Tests - 9 Scenarios
+Click here to see additional details about normality test procedures in PASS.
+Normality Tests (Simulation) – Anderson-Darling
+Normality Tests (Simulation) – Kolmogorov-Smirnov
+Normality Tests (Simulation) – Kurtosis
+Normality Tests (Simulation) – Martinez-Iglewicz
+Normality Tests (Simulation) – Omnibus
+Normality Tests (Simulation) – Range
+Normality Tests (Simulation) – Shapiro-Wilk
+Normality Tests (Simulation) – Skewness
+Normality Tests (Simulation) – Any Test
+Pilot Studies - 5 Scenarios
+UCL of the Standard Deviation from a Pilot Study
+Sample Size of a Pilot Study using the Upper Confidence Limit of the SD
+Sample Size of a Pilot Study using the Non-Central t to Allow for Uncertainty in the SD
+Required Sample Size to Detect a Problem in a Pilot Study
+Pilot Study Sample Size Rules of Thumb
+Proportions - One - 59 Scenarios
+Click here to see additional details about one proportion procedures in PASS.
+Tests for One Proportion – Exact
+Tests for One Proportion – Z-Test using S(P0)
+Tests for One Proportion – Z-Test using S(P0) with Continuity Correction
+Tests for One Proportion – Z-Test using S(Phat)
+Tests for One Proportion – Z-Test using S(Phat) with Continuity Correction
+Tests for One Proportion using Differences
+Tests for One Proportion using Ratios
+Tests for One Proportion using Odds Ratios
+Tests for One Proportion using Effect Size
+Tests for One Proportion to Demonstrate Conformance with a Reliability Standard
+Tests for One Proportion to Demonstrate Conformance with a Reliability Standard with Fixed Adverse Events
+Confidence Intervals for One Proportion – Exact (Clopper-Pearson)
+Confidence Intervals for One Proportion – Score (Wilson)
+Confidence Intervals for One Proportion – Score with Continuity Correction
+Confidence Intervals for One Proportion – Simple Asymptotic
+Confidence Intervals for One Proportion – Simple Asymptotic with Continuity Correction
+Confidence Intervals for One Proportion from a Finite Population
+Confidence Intervals for One Proportion in a Stratified Design
+Confidence Intervals for One Proportion in a Cluster-Randomized Design
+Confidence Intervals for One Proportion in a Stratified Cluster-Randomized Design
+Non-Inferiority Tests for One Proportion – Exact
+Non-Inferiority Tests for One Proportion – Z-Test using S(P0)
+Non-Inferiority Tests for One Proportion – Z-Test using S(P0) with Continuity Correction
+Non-Inferiority Tests for One Proportion – Z-Test using S(Phat)
+Non-Inferiority Tests for One Proportion – Z-Test using S(Phat) with Continuity Correction
+Non-Inferiority Tests for One Proportion using Differences
+Non-Inferiority Tests for One Proportion using Ratios
+Non-Inferiority Tests for One Proportion using Odds Ratios
+Equivalence Tests for One Proportion – Exact Test
+Equivalence Tests for One Proportion – Z Test using S(P0)
+Equivalence Tests for One Proportion – Z Test using S(P0) with Continuity Correction
+Equivalence Tests for One Proportion – Z Test using S(Phat)
+Equivalence Tests for One Proportion – Z Test using S(Phat) with Continuity Correction
+Equivalence Tests for One Proportion using Differences
+Equivalence Tests for One Proportion using Ratios
+Equivalence Tests for One Proportion using Odds Ratios
+Superiority by a Margin Tests for One Proportion – Exact
+Superiority by a Margin Tests for One Proportion – Z-Test using S(P0)
+Superiority by a Margin Tests for One Proportion – Z-Test using S(P0) with Continuity Correction
+Superiority by a Margin Tests for One Proportion – Z-Test using S(Phat)
+Superiority by a Margin Tests for One Proportion – Z-Test using S(Phat) with Continuity Correction
+Superiority by a Margin Tests for One Proportion using Differences
+Superiority by a Margin Tests for One Proportion using Ratios
+Superiority by a Margin Tests for One Proportion using Odds Ratios
+Single-Stage Phase II Clinical Trials
+Two-Stage Phase II Clinical Trials
+Three-Stage Phase II Clinical Trials
+Post-Marketing Surveillance – Cohort – No Background Incidence
+Post-Marketing Surveillance – Cohort – Known Background Incidence
+Post-Marketing Surveillance – Cohort – Unknown Background Incidence
+Post-Marketing Surveillance – Matched Case-Control Study
+Conditional Power of One Proportion Tests
+Tests for One-Sample Sensitivity and Specificity
+Confidence Intervals for One-Sample Sensitivity
+Confidence Intervals for One-Sample Specificity
+Confidence Intervals for One-Sample Sensitivity and Specificity
+Group-Sequential Tests for One Proportion in a Fleming Design
+Conditional Power of Non-Inferiority Tests for One Proportion
+Conditional Power of Superiority by a Margin Tests for One Proportion
+Two-Stage Designs for Tests of One Proportion (Simon)
+Proportions - Two Independent - 213 Scenarios
+Click here to see additional details about two proportions procedures in PASS.
+Tests for Two Proportions – Fisher’s Exact Test
+Tests for Two Proportions – Fisher’s Exact Test – Unequal n’s
+Tests for Two Proportions – Z-Test (Pooled)
+Tests for Two Proportions – Z-Test (Pooled) – Unequal n’s
+Tests for Two Proportions – Z-Test (Unpooled)
+Tests for Two Proportions – Z-Test (Unpooled) – Unequal n’s
+Tests for Two Proportions – Z-Test (Pooled) with Continuity Correction
+Tests for Two Proportions – Z-Test (Pooled) with Continuity Correction – Unequal n’s
+Tests for Two Proportions – Z-Test (Unpooled) with Continuity Correction
+Tests for Two Proportions – Z-Test (Unpooled) with Continuity Correction – Unequal n’s
+Tests for Two Proportions – Mantel-Haenszel Test
+Tests for Two Proportions – Mantel-Haenszel Test – Unequal n’s
+Tests for Two Proportions – Likelihood Ratio Test
+Tests for Two Proportions – Likelihood Ratio Test – Unequal n’s
+Tests for Two Proportions using Differences
+Tests for Two Proportions using Ratios
+Tests for Two Proportions using Odds Ratios
+Tests for Two Proportions using Effect Size
+Tests for Two Proportions using Effect Size – Unequal n’s
+Confidence Intervals for Two Proportions – Score (Farrington & Manning)
+Confidence Intervals for Two Proportions – Score (Farrington & Manning) – Unequal n’s
+Confidence Intervals for Two Proportions – Score (Miettinen & Nurminen)
+Confidence Intervals for Two Proportions – Score (Miettinen & Nurminen) – Unequal n’s
+Confidence Intervals for Two Proportions – Score with Skewness (Gart & Nam)
+Confidence Intervals for Two Proportions – Score with Skewness (Gart & Nam) – Unequal n’s
+Confidence Intervals for Two Proportions – Score (Wilson)
+Confidence Intervals for Two Proportions – Score (Wilson) – Unequal n’s
+Confidence Intervals for Two Proportions – Score with Continuity Correction (Wilson)
+Confidence Intervals for Two Proportions – Score with Continuity Correction (Wilson) – Unequal n’s
+Confidence Intervals for Two Proportions – Chi-Square with Continuity Correction (Yates)
+Confidence Intervals for Two Proportions – Chi-Square with Continuity Correction (Yates) – Unequal n’s
+Confidence Intervals for Two Proportions – Chi-Square (Pearson)
+Confidence Intervals for Two Proportions – Chi-Square (Pearson) – Unequal n’s
+Confidence Intervals for Two Proportions using Ratios – Score (Farrington & Manning)
+Confidence Intervals for Two Proportions using Ratios – Score (Farrington & Manning) – Unequal n’s
+Confidence Intervals for Two Proportions using Ratios – Score (Miettinen & Nurminen)
+Confidence Intervals for Two Proportions using Ratios – Score (Miettinen & Nurminen) – Unequal n’s
+Confidence Intervals for Two Proportions using Ratios – Score with Skewness (Gart & Nam)
+Confidence Intervals for Two Proportions using Ratios – Score with Skewness (Gart & Nam) – Unequal n’s
+Confidence Intervals for Two Proportions using Ratios – Logarithm (Katz)
+Confidence Intervals for Two Proportions using Ratios – Logarithm (Katz) – Unequal n’s
+Confidence Intervals for Two Proportions using Ratios – Logarithm + ½ (Walter)
+Confidence Intervals for Two Proportions using Ratios – Logarithm + ½ (Walter) – Unequal n’s
+Confidence Intervals for Two Proportions using Ratios – Fleiss
+Confidence Intervals for Two Proportions using Ratios – Fleiss – Unequal n’s
+Confidence Intervals for Two Proportions using Odds Ratios – Exact (Conditional)
+Confidence Intervals for Two Proportions using Odds Ratios – Exact (Conditional) – Unequal n’s
+Confidence Intervals for Two Proportions using Odds Ratios – Score (Farrington & Manning)
+Confidence Intervals for Two Proportions using Odds Ratios – Score (Farrington & Manning) – Unequal n’s
+Confidence Intervals for Two Proportions using Odds Ratios – Score (Miettinen & Nurminen)
+Confidence Intervals for Two Proportions using Odds Ratios – Score (Miettinen & Nurminen) – Unequal n’s
+Confidence Intervals for Two Proportions using Odds Ratios – Fleiss
+Confidence Intervals for Two Proportions using Odds Ratios – Fleiss – Unequal n’s
+Confidence Intervals for Two Proportions using Odds Ratios – Logarithm
+Confidence Intervals for Two Proportions using Odds Ratios – Logarithm – Unequal n’s
+Confidence Intervals for Two Proportions using Odds Ratios – Mantel-Haenszel
+Confidence Intervals for Two Proportions using Odds Ratios – Mantel-Haenszel – Unequal n’s
+Confidence Intervals for Two Proportions using Odds Ratios – Simple
+Confidence Intervals for Two Proportions using Odds Ratios – Simple – Unequal n’s
+Confidence Intervals for Two Proportions using Odds Ratios – Simple + 1/2
+Confidence Intervals for Two Proportions using Odds Ratios – Simple + 1/2 – Unequal n’s
+Non-Inferiority Tests for Two Proportions – Z-Test (Pooled)
+Non-Inferiority Tests for Two Proportions – Z-Test (Pooled) – Unequal n’s
+Non-Inferiority Tests for Two Proportions – Z-Test (Unpooled)
+Non-Inferiority Tests for Two Proportions – Z-Test (Unpooled) – Unequal n’s
+Non-Inferiority Tests for Two Proportions – Z-Test (Pooled) with Continuity Correction
+Non-Inferiority Tests for Two Proportions – Z-Test (Pooled) with Continuity Correction – Unequal n’s
+Non-Inferiority Tests for Two Proportions – Z-Test (Unpooled) with Continuity Correction
+Non-Inferiority Tests for Two Proportions – Z-Test (Unpooled) with Continuity Correction – Unequal n’s
+Non-Inferiority Tests for Two Proportions – Likelihood Score (Farrington & Manning)
+Non-Inferiority Tests for Two Proportions – Likelihood Score (Farrington & Manning) – Unequal n’s
+Non-Inferiority Tests for Two Proportions – Likelihood Score (Miettinen & Nurminen)
+Non-Inferiority Tests for Two Proportions – Likelihood Score (Miettinen & Nurminen) – Unequal n’s
+Non-Inferiority Tests for Two Proportions – Likelihood Score (Gart & Nam)
+Non-Inferiority Tests for Two Proportions – Likelihood Score (Gart & Nam) – Unequal n’s
+Non-Inferiority Tests for Two Proportions using Differences
+Non-Inferiority Tests for Two Proportions using Ratios
+Non-Inferiority Tests for Two Proportions using Odds Ratios
+Equivalence Tests for Two Proportions – Z Test (Pooled)
+Equivalence Tests for Two Proportions – Z Test (Pooled) – Unequal n’s
+Equivalence Tests for Two Proportions – Z Test (Unpooled)
+Equivalence Tests for Two Proportions – Z Test (Unpooled) – Unequal n’s
+Equivalence Tests for Two Proportions – Z Test (Pooled) with Continuity Correction
+Equivalence Tests for Two Proportions – Z Test (Pooled) with Continuity Correction – Unequal n’s
+Equivalence Tests for Two Proportions – Z Test (Unpooled) with Continuity Correction
+Equivalence Tests for Two Proportions – Z Test (Unpooled) with Continuity Correction – Unequal n’s
+Equivalence Tests for Two Proportions – Likelihood Score (Farrington & Manning)
+Equivalence Tests for Two Proportions – Likelihood Score (Farrington & Manning) – Unequal n’s
+Equivalence Tests for Two Proportions – Likelihood Score (Miettinen & Nurminen)
+Equivalence Tests for Two Proportions – Likelihood Score (Miettinen & Nurminen) – Unequal n’s
+Equivalence Tests for Two Proportions – Likelihood Score (Gart & Nam)
+Equivalence Tests for Two Proportions – Likelihood Score (Gart & Nam) – Unequal n’s
+Equivalence Tests for Two Proportions using Differences
+Equivalence Tests for Two Proportions using Ratios
+Equivalence Tests for Two Proportions using Odds Ratios
+Superiority by a Margin Tests for Two Proportions – Z-Test (Pooled)
+Superiority by a Margin Tests for Two Proportions – Z-Test (Pooled) – Unequal n’s
+Superiority by a Margin Tests for Two Proportions – Z-Test (Unpooled)
+Superiority by a Margin Tests for Two Proportions – Z-Test (Unpooled) – Unequal n’s
+Superiority by a Margin Tests for Two Proportions – Z-Test (Pooled) with Continuity Correction
+Superiority by a Margin Tests for Two Proportions – Z-Test (Pooled) with Continuity Correction – Unequal n’s
+Superiority by a Margin Tests for Two Proportions – Z-Test (Unpooled) with Continuity Correction
+Superiority by a Margin Tests for Two Proportions – Z-Test (Unpooled) with Continuity Correction – Unequal n’s
+Superiority by a Margin Tests for Two Proportions – Likelihood Score (Farrington & Manning)
+Superiority by a Margin Tests for Two Proportions – Likelihood Score (Farrington & Manning) – Unequal n’s
+Superiority by a Margin Tests for Two Proportions – Likelihood Score (Miettinen & Nurminen)
+Superiority by a Margin Tests for Two Proportions – Likelihood Score (Miettinen & Nurminen) – Unequal n’s
+Superiority by a Margin Tests for Two Proportions – Likelihood Score (Gart & Nam)
+Superiority by a Margin Tests for Two Proportions – Likelihood Score (Gart & Nam) – Unequal n’s
+Superiority by a Margin Tests for Two Proportions using Differences
+Superiority by a Margin Tests for Two Proportions using Ratios
+Superiority by a Margin Tests for Two Proportions using Odds Ratios
+Tests for Two Proportions in a Repeated Measures Design using Odds Ratios – Difference
+Tests for Two Proportions in a Repeated Measures Design using Odds Ratios – Difference – Unequal n’s
+Tests for Two Proportions in a Repeated Measures Design using Odds Ratios – Log(OR)
+Tests for Two Proportions in a Repeated Measures Design using Odds Ratios – Log(OR) – Unequal n’s
+Tests for Two Proportions in a Repeated Measures Design using Proportions
+Tests for the Difference Between Two Proportions using Historical Controls
+Group-Sequential Tests for Two Proportions
+Group-Sequential Tests for Two Proportions – Unequal n’s
+Group-Sequential Tests for Two Proportions (Simulation) – Z-Test (Pooled)
+Group-Sequential Tests for Two Proportions (Simulation) – Z-Test (Pooled) – Unequal n’s
+Group-Sequential Tests for Two Proportions (Simulation) – Z-Test (Unpooled)
+Group-Sequential Tests for Two Proportions (Simulation) – Z-Test (Unpooled) – Unequal n’s
+Group-Sequential Tests for Two Proportions (Simulation) – Z-Test (Pooled) with Continuity Correction
+Group-Sequential Tests for Two Proportions (Simulation) – Z-Test (Pooled) with Continuity Correction – Unequal n’s
+Group-Sequential Tests for Two Proportions (Simulation) – Z-Test (Unpooled) with Continuity Correction
+Group-Sequential Tests for Two Proportions (Simulation) – Z-Test (Unpooled) with Continuity Correction – Unequal n’s
+Group-Sequential Tests for Two Proportions (Simulation) – Mantel-Haenszel
+Group-Sequential Tests for Two Proportions (Simulation) – Mantel-Haenszel – Unequal n’s
+Group-Sequential Tests for Two Proportions (Simulation) – Fisher’s Exact
+Group-Sequential Tests for Two Proportions (Simulation) – Fisher’s Exact – Unequal n’s
+Group-Sequential Tests for Two Proportions using Differences (Simulation)
+Group-Sequential Tests for Two Proportions using Ratios (Simulation)
+Group-Sequential Tests for Two Proportions using Odds Ratios (Simulation)
+Group-Sequential Non-Inferiority Tests for Two Proportions (Simulation) – Z-Test (Pooled)
+Group-Sequential Non-Inferiority Tests for Two Proportions (Simulation) – Z-Test (Pooled) – Unequal n’s
+Group-Sequential Non-Inferiority Tests for Two Proportions (Simulation) – Z-Test (Unpooled)
+Group-Sequential Non-Inferiority Tests for Two Proportions (Simulation) – Z-Test (Unpooled) – Unequal n’s
+Group-Sequential Non-Inferiority Tests for Two Proportions (Simulation) – Z-Test (Pooled) with Continuity Correction
+Group-Sequential Non-Inferiority Tests for Two Proportions (Simulation) – Z-Test (Pooled) with Continuity Correction – Unequal n’s
+Group-Sequential Non-Inferiority Tests for Two Proportions (Simulation) – Z-Test (Unpooled) with Continuity Correction
+Group-Sequential Non-Inferiority Tests for Two Proportions (Simulation) – Z-Test (Unpooled) with Continuity Correction – Unequal n’s
+Group-Sequential Non-Inferiority Tests for Two Proportions (Simulation) – Likelihood Score (Farrington & Manning)
+Group-Sequential Non-Inferiority Tests for Two Proportions (Simulation) – Likelihood Score (Farrington & Manning) – Unequal n’s
+Group-Sequential Non-Inferiority Tests for Two Proportions (Simulation) – Likelihood Score (Miettinen & Nurminen)
+Group-Sequential Non-Inferiority Tests for Two Proportions (Simulation) – Likelihood Score (Miettinen & Nurminen) – Unequal n’s
+Group-Sequential Non-Inferiority Tests for Two Proportions (Simulation) – Likelihood Score (Gart & Nam)
+Group-Sequential Non-Inferiority Tests for Two Proportions (Simulation) – Likelihood Score (Gart & Nam) – Unequal n’s
+Group-Sequential Non-Inferiority Tests for Two Proportions using Differences (Simulation)
+Group-Sequential Non-Inferiority Tests for Two Proportions using Ratios (Simulation)
+Group-Sequential Non-Inferiority Tests for Two Proportions using Odds Ratios (Simulation)
+Group-Sequential Superiority by a Margin Tests for Two Proportions (Simulation) – Z-Test (Pooled)
+Group-Sequential Superiority by a Margin Tests for Two Proportions (Simulation) – Z-Test (Pooled) – Unequal n’s
+Group-Sequential Superiority by a Margin Tests for Two Proportions (Simulation) – Z-Test (Unpooled)
+Group-Sequential Superiority by a Margin Tests for Two Proportions (Simulation) – Z-Test (Unpooled) – Unequal n’s
+Group-Sequential Superiority by a Margin Tests for Two Proportions (Simulation) – Z-Test (Pooled) with Continuity Correction
+Group-Sequential Superiority by a Margin Tests for Two Proportions (Simulation) – Z-Test (Pooled) with Continuity Correction – Unequal n’s
+Group-Sequential Superiority by a Margin Tests for Two Proportions (Simulation) – Z-Test (Unpooled) with Continuity Correction
+Group-Sequential Superiority by a Margin Tests for Two Proportions (Simulation) – Z-Test (Unpooled) with Continuity Correction – Unequal n’s
+Group-Sequential Superiority by a Margin Tests for Two Proportions (Simulation) – Likelihood Score (Farrington & Manning)
+Group-Sequential Superiority by a Margin Tests for Two Proportions (Simulation) – Likelihood Score (Farrington & Manning) – Unequal n’s
+Group-Sequential Superiority by a Margin Tests for Two Proportions (Simulation) – Likelihood Score (Miettinen & Nurminen)
+Group-Sequential Superiority by a Margin Tests for Two Proportions (Simulation) – Likelihood Score (Miettinen & Nurminen) – Unequal n’s
+Group-Sequential Superiority by a Margin Tests for Two Proportions (Simulation) – Likelihood Score (Gart & Nam)
+Group-Sequential Superiority by a Margin Tests for Two Proportions (Simulation) – Likelihood Score (Gart & Nam) – Unequal n’s
+Group-Sequential Superiority by a Margin Tests for Two Proportions using Differences (Simulation)
+Group-Sequential Superiority by a Margin Tests for Two Proportions using Ratios (Simulation)
+Group-Sequential Superiority by a Margin Tests for Two Proportions using Odds Ratios (Simulation)
+Group-Sequential Non-Inferiority Tests for Two Proportions (Simulation)
+Group-Sequential Non-Inferiority Tests for Two Proportions (Simulation) – Unequal n’s
+Group-Sequential Superiority by a Margin Tests for Two Proportions (Simulation)
+Group-Sequential Superiority by a Margin Tests for Two Proportions (Simulation) – Unequal n’s
+Conditional Power of Two-Proportions Tests
+Conditional Power of Two-Proportions Tests – Unequal n’s
+Tests for Two Proportions in a Stratified Design (Cochran/Mantel-Haenzel Test)
+Tests for Two Proportions in a Stratified Design (Cochran/Mantel-Haenzel Test) – Unequal n’s
+Tests for Two Proportions in a Repeated Measures Design
+Tests for Two Proportions in a Repeated Measures Design – Unequal n’s
+Tests for Two Proportions in a Repeated Measures Design using Odds Ratios
+Tests for Two Proportions in a Stepped-Wedge Cluster-Randomized Design - Complete Design
+Tests for Two Proportions in a Stepped-Wedge Cluster-Randomized Design - Incomplete Design (Custom)
+Mixed Models Tests for Two Proportions in a 2-Level Hierarchical Design (Level-2 Randomization)
+Mixed Models Tests for Two Proportions in a 2-Level Hierarchical Design (Level-1 Randomization)
+Mixed Models Tests for Two Proportions in a 3-Level Hierarchical Design (Level-3 Randomization)
+Mixed Models Tests for Two Proportions in a 3-Level Hierarchical Design (Level-2 Randomization)
+Mixed Models Tests for Two Proportions in a 3-Level Hierarchical Design (Level-1 Randomization)
+Group-Sequential Tests for Two Proportions (Simulation)
+Conditional Power of Non-Inferiority Tests for the Difference Between Two Proportions
+Conditional Power of Superiority by a Margin Tests for the Difference Between Two Proportions
+Superiority by a Margin Tests for the Difference Between Two Proportions
+Superiority by a Margin Tests for the Ratio of Two Proportions
+Superiority by a Margin Tests for the Odds Ratio of Two Proportions
+Superiority by a Margin Tests for the Difference of Two Proportions in a Cluster-Randomized Design
+Superiority by a Margin Tests for the Ratio of Two Proportions in a Cluster-Randomized Design
+Tests for Two Proportions in a Split-Mouth Design
+Tests for Two Proportions in a Stratified Cluster-Randomized Design (Cochran-Mantel-Haenszel Test)
+Meta-Analysis of Tests for the Odds Ratio of Two Proportions using a Fixed-Effects Model
+Meta-Analysis of Tests for the Odds Ratio of Two Proportions using a Random-Effects Model
+Meta-Analysis of Tests for the Risk Ratio of Two Proportions using a Fixed-Effects Model
+Meta-Analysis of Tests for the Risk Ratio of Two Proportions using a Random-Effects Model
+Meta-Analysis of Tests for the Odds Ratio of Two Proportions using a Fixed-Effects Model in a Cluster-Randomized Design
+Meta-Analysis of Tests for the Odds Ratio of Two Proportions using a Random-Effects Model in a Cluster-Randomized Design
+Meta-Analysis of Tests for the Risk Ratio of Two Proportions using a Fixed-Effects Model in a Cluster-Randomized Design
+Meta-Analysis of Tests for the Risk Ratio of Two Proportions using a Random-Effects Model in a Cluster-Randomized Design
+Tests for Two Proportions in a Cluster-Randomized Design with Clustering in Only One Arm
+Non-Inferiority Tests for Two Proportions in a Cluster-Randomized Design with Clustering in Only One Arm
+Tests for Two Proportions in a Stratified Cluster-Randomized Design (Cochran-Mantel-Haenszel Test)
+Tests for Two Proportions in a Split-Cluster Beta-Binomial Design
+Superiority by a Margin Tests for Two Proportions in a Cluster-Randomized Design with Clustering in Only One Arm
+Equivalence Tests for Two Proportions in a Cluster-Randomized Design with Clustering in Only One Arm
+Proportions - Correlated or Paired - 17 Scenarios
+Click here to see additional details about correlated proportions procedures in PASS.
+Tests for Two Correlated Proportions (McNemar's Test)
+Tests for Two Correlated Proportions (McNemar's Test) using Odds Ratios
+Tests for Two Correlated Proportions in a Matched Case-Control Design
+Tests for the Odds Ratio in a Matched Case-Control Design with a Binary Covariate using Conditional Logistic Regression
+Tests for the Odds Ratio in a Matched Case-Control Design with a Quantitative X using Conditional Logistic Regression
+Tests for the Matched-Pair Difference of Two Proportions in a Cluster-Randomized Design
+Non-Inferiority Tests for Two Correlated Proportions
+Non-Inferiority Tests for Two Correlated Proportions using Ratios
+Equivalence Tests for Two Correlated Proportions
+Equivalence Tests for Two Correlated Proportions using Ratios
+GEE Tests for the Slope of Two Groups in a Repeated Measures Design (Binary Outcome)
+GEE Tests for the TAD of Two Groups in a Repeated Measures Design (Binary Outcome)
+GEE Tests for Two Correlated Proportions with Dropout
+Tests for Two Correlated Proportions with Incomplete Observations
+Superiority by a Margin Tests for the Difference Between Two Correlated Proportions (Conditional McNemar's Test)
+Non-Inferiority Tests for the Difference Between Two Correlated Proportions (Conditional McNemar's Test)
+Tests for the Matched-Pair Difference of Two Proportions in a Cluster-Randomized Design with Missing Value Adjustment
+Proportions - Cross-Over Designs - 12 Scenarios
+Tests for the Odds Ratio of Two Proportions in a 2x2 Cross-Over Design
+Non-Inferiority Tests for the Odds Ratio of Two Proportions in a 2x2 Cross-Over Design
+Superiority by a Margin Tests for the Odds Ratio of Two Proportions in a 2x2 Cross-Over Design
+Equivalence Tests for the Odds Ratio of Two Proportions in a 2x2 Cross-Over Design
+Tests for the Difference of Two Proportions in a 2x2 Cross-Over Design
+Non-Inferiority Tests for the Difference of Two Proportions in a 2x2 Cross-Over Design
+Superiority by a Margin Tests for the Difference of Two Proportions in a 2x2 Cross-Over Design
+Equivalence Tests for the Difference of Two Proportions in a 2x2 Cross-Over Design
+Tests for Pairwise Proportion Differences in a Williams Cross-Over Design
+Non-Inferiority Tests for Pairwise Proportion Differences in a Williams Cross-Over Design
+Superiority by a Margin Tests for Pairwise Proportion Differences in a Williams Cross-Over Design
+Equivalence Tests for Pairwise Proportion Differences in a Williams Cross-Over Design
+Proportions - Many - 34 Scenarios
+Click here to see additional details about chi-square and other proportions tests procedures in PASS.
+Chi-Square Contingency Table Test
+Chi-Square Multinomial Test
+Cochran-Armitage Test for Trend in Proportions
+Cochran-Armitage Test for Trend in Proportions – Unequal n’s
+Multiple Comparisons of Proportions vs. Control
+Multiple Comparisons of Proportions vs. Control – Unequal n’s
+Logistic Regression
+Tests for Two Ordered Categorical Variables
+Tests for Two Ordered Categorical Variables – Unequal n’s
+GEE Tests for the TAD of Multiple Groups in a Repeated Measures Design (Binary Outcome)
+Tests for Multiple Correlated Proportions
+GEE Tests for Multiple Proportions in a Cluster-Randomized Design
+Tests for Multiple Proportions in a One-Way Design
+Multi-Arm Tests for Treatment and Control Proportions
+Multi-Arm, Non-Inferiority Tests of the Difference Between Treatment and Control Proportions
+Multi-Arm, Superiority by a Margin Tests of the Difference Between Treatment and Control Proportions
+Multi-Arm, Equivalence Tests of the Difference Between Treatment and Control Proportions
+Multi-Arm, Non-Inferiority Tests of the Ratio of Treatment and Control Proportions
+Multi-Arm, Superiority by a Margin Tests of the Ratio of Treatment and Control Proportions
+Multi-Arm, Equivalence Tests of the Ratio of Treatment and Control Proportions
+Multi-Arm, Non-Inferiority Tests of the Odds Ratio of Treatment and Control Proportions
+Multi-Arm, Superiority by a Margin Tests of the Odds Ratio of Treatment and Control Proportions
+Multi-Arm, Equivalence Tests of the Odds Ratio of Treatment and Control Proportions
+Multi-Arm Tests for Treatment and Control Proportions in a Cluster-Randomized Design
+Multi-Arm, Non-Inferiority Tests for Treatment and Control Proportions in a Cluster-Randomized Design
+Multi-Arm, Non-Inferiority Tests for Vaccine Efficacy Using the Ratio of Treatment and Control Proportions
+Multi-Arm, Superiority by a Margin Tests for Vaccine Efficacy Using the Ratio of Treatment and Control Proportions
+Multi-Arm Superiority by a Margin Tests for the Difference of Treatment and Control Proportions in a Cluster-Randomized Design
+Multi-Arm Equivalence Tests for the Difference of Treatment and Control Proportions in a Cluster-Randomized Design
+Multi-Arm Equivalence Tests for the Ratio of Treatment and Control Proportions in a Cluster-Randomized Design
+Multi-Arm Non-Inferiority Tests for the Ratio of Treatment and Control Proportions in a Cluster-Randomized Design
+Multi-Arm Superiority by a Margin Tests for the Ratio of Treatment and Control Proportions in a Cluster-Randomized Design
+Multi-Arm Non-Inferiority Tests for Vaccine Efficacy using the Ratio of Treatment and Control Proportions in a Cluster-Randomized Design
+Multi-Arm Superiority by a Margin Tests for Vaccine Efficacy using the Ratio of Treatment and Control Proportions in a Cluster-Randomized Design
+Quality Control - 16 Scenarios
+Acceptance Sampling for Attributes
+Operating Characteristic Curves for Acceptance Sampling for Attributes
+Acceptance Sampling for Attributes with Zero Nonconformities
+Acceptance Sampling for Attributes with Fixed Nonconformities
+Quality Control Charts for Means – Shewhart (Xbar) (Simulation)
+Quality Control Charts for Means – CUSUM (Simulation)
+Quality Control Charts for Means – CUSUM + Shewhart (Simulation)
+Quality Control Charts for Means – FIR CUSUM (Simulation)
+Quality Control Charts for Means – FIR CUSUM + Shewhart (Simulation)
+Quality Control Charts for Means – EWMA (Simulation)
+Quality Control Charts for Means – EWMA + Shewhart (Simulation)
+Quality Control Charts for Variability – R (Simulation)
+Quality Control Charts for Variability – S (Simulation)
+Quality Control Charts for Variability – S with Probability Limits (Simulation)
+Confidence Intervals for Cp
+Confidence Intervals for Cpk
+Rates and Counts - 44 Scenarios
+Tests for the Difference Between Two Poisson Rates
+Tests for the Difference Between Two Poisson Rates in a Cluster-Randomized Design
+Tests for the Matched-Pair Difference of Two Event Rates in a Cluster-Randomized Design
+Tests for the Ratio of Two Poisson Rates (Zhu)
+Tests for the Ratio of Two Negative Binomial Rates
+Poisson Means (Incidence Rates)
+Post-Marketing Surveillance (Incidence Rates)
+Tests for Two Poisson Rates in a Stepped-Wedge Cluster-Randomized Design - Complete Design
+Tests for Two Poisson Rates in a Stepped-Wedge Cluster-Randomized Design - Incomplete Design (Custom)
+Poisson Regression
+Equivalence Tests for the Ratio of Two Poisson Rates
+Equivalence Tests for the Ratio of Two Poisson Rates – Unequal n’s
+Equivalence Tests for the Ratio of Two Negative Binomial Rates
+Equivalence Tests for the Ratio of Two Negative Binomial Rates – Unequal n’s
+Non-Inferiority Tests for the Ratio of Two Poisson Rates
+Non-Inferiority Tests for the Ratio of Two Poisson Rates – Unequal n’s
+Non-Inferiority Tests for the Ratio of Two Negative Binomial Rates
+Non-Inferiority Tests for the Ratio of Two Negative Binomial Rates – Unequal n’s
+Superiority by a Margin Tests for the Ratio of Two Poisson Rates
+Superiority by a Margin Tests for the Ratio of Two Poisson Rates – Unequal n’s
+Superiority by a Margin Tests for the Ratio of Two Negative Binomial Rates
+Superiority by a Margin Tests for the Ratio of Two Negative Binomial Rates – Unequal n’s
+GEE Tests for the Slope of Two Groups in a Repeated Measures Design (Count Outcome)
+GEE GEE Tests for the Slope of Multiple Groups in a Repeated Measures Design (Count Outcome)
+GEE Tests for the TAD of Two Groups in a Repeated Measures Design (Count Outcome)
+GEE Tests for the TAD of Multiple Groups in a Repeated Measures Design (Count Outcome)
+Tests for the Ratio of Two Poisson Rates in a 2x2 Cross-Over Design
+Non-Inferiority Tests for the Ratio of Two Poisson Rates in a 2x2 Cross-Over Design
+Superiority by a Margin Tests for the Ratio of Two Poisson Rates in a 2x2 Cross-Over Design
+Equivalence Tests for the Ratio of Two Poisson Rates in a 2x2 Cross-Over Design
+Tests of Mediation Effect in Poisson Regression
+GEE Tests for Multiple Poisson Rates in a Cluster-Randomized Design
+Tests for One Poisson Rate with No Background Incidence (Post-Marketing Surveillance)
+Tests for One Poisson Rate with Known Background Incidence (Post-Marketing Surveillance)
+Tests for Two Poisson Rates with Background Incidence Estimated by the Control (Post-Marketing Surveillance)
+Tests for Two Poisson Rates in a Matched Case-Control Design (Post-Marketing Surveillance)
+Tests for the Difference Between Two Poisson Rates in a Cluster-Randomized Design with Adjustment for Varying Cluster Sizes
+Tests for Multiple Poisson Rates in a One-Way Design
+Tests for Relative Incidence in Self-Controlled Case Series Studies
+Tests for Relative Incidence in Self-Controlled Case Series Studies with Age Intervals
+Tests for the Ratio of Two Poisson Rates in a Cluster-Randomized Design using GEE
+Superiority by a Margin Tests for the Ratio of Two Poisson Rates in a Cluster-Randomized Design using GEE
+Non-Inferiority Tests for the Ratio of Two Poisson Rates in a Cluster-Randomized Design using GEE
+Superiority by a Margin Tests for Vaccine Efficacy using the Ratio of Two Poisson Rates in a Cluster-Randomized Design using GEE
+Non-Inferiority Tests for Vaccine Efficacy using the Ratio of Two Poisson Rates in a Cluster-Randomized Design using GEE
+Reference Intervals - 2 Scenarios
+Reference Intervals for Normal Data
+Nonparametric Reference Intervals for Non-Normal Data
+Regression - 42 Scenarios
+Click here to see additional details about regression procedures in PASS.
+Linear Regression
+Confidence Intervals for Linear Regression Slope
+Tests for the Difference Between Two Linear Regression Slopes
+Tests for the Difference Between Two Linear Regression Intercepts
+Cox Regression
+Logistic Regression
+Logistic Regression with One Binary Covariate using the Wald Test
+Logistic Regression with Two Binary Covariates using the Wald Test
+Logistic Regression with Two Binary Covariates and an Interaction using the Wald Test
+Confidence Intervals for the Odds Ratio in a Logistic Regression with Two Binary Covariates
+Confidence Intervals for the Interaction Odds Ratio in a Logistic Regression with Two Binary Covariates
+Tests for the Odds Ratio in a Matched Case-Control Design with a Binary X using Conditional Logistic Regression
+Tests for the Odds Ratio in a Matched Case-Control Design with a Quantitative X using Conditional Logistic Regression
+Multiple Regression
+Multiple Regression using Effect Size
+Poisson Regression
+Probit Analysis - Probit
+Probit Analysis – Logit
+Confidence Intervals for Michaelis-Menten Parameters
+Confidence Intervals for Michaelis-Menten Parameters – Unequal n’s
+Reference Intervals for Clinical and Lab Medicine
+Mendelian Randomization with a Binary Outcome
+Mendelian Randomization with a Continuous Outcome
+Tests for the Odds Ratio in a Matched Case-Control Design with a Binary Covariate using Conditional Logistic Regression
+Tests for the Odds Ratio in a Matched Case-Control Design with a Quantitative X using Conditional Logistic Regression
+Tests for the Odds Ratio in Logistic Regression with One Normal X (Wald Test)
+Tests for the Odds Ratio in Logistic Regression with One Normal X and Other Xs (Wald Test)
+Tests for the Odds Ratio in Logistic Regression with One Binary X and Other Xs (Wald Test)
+Tests of Mediation Effect using the Sobel Test
+Tests of Mediation Effect in Linear Regression
+Tests of Mediation Effect in Logistic Regression
+Tests of Mediation Effect in Poisson Regression
+Tests of Mediation Effect in Cox Regression
+Joint Tests of Mediation in Linear Regression with Continuous Variables
+Simple Linear Regression
+Non-Zero Null Tests for Simple Linear Regression
+Non-Inferiority Tests for Simple Linear Regression
+Superiority by a Margin Tests for Simple Linear Regression
+Equivalence Tests for Simple Linear Regression
+Simple Linear Regression using R-Squared
+Non-Zero Null Tests for Simple Linear Regression using R-Squared
+Deming Regression
+ROC Curves - 10 Scenarios
+Tests for One ROC Curve – Discrete Data
+Tests for One ROC Curve – Continuous Data
+Tests for One ROC Curve – Continuous Data – Unequal n’s
+Tests for Two ROC Curves – Discrete Data
+Tests for Two ROC Curves – Discrete Data – Unequal n’s
+Tests for Two ROC Curves – Continuous Data
+Tests for Two ROC Curves – Continuous Data – Unequal n’s
+Confidence Intervals for the Area Under an ROC Curve
+Confidence Intervals for the Area Under an ROC Curve – Unequal n’s
+Sensitivity and Specificity - 21 Scenarios
+Tests for One-Sample Sensitivity and Specificity
+Tests for Paired Sensitivities
+Tests for Two Independent Sensitivities – Fisher’s Exact Test
+Tests for Two Independent Sensitivities – Fisher’s Exact Test – Unequal n’s
+Tests for Two Independent Sensitivities – Z-Test (Pooled)
+Tests for Two Independent Sensitivities – Z-Test (Pooled) – Unequal n’s
+Tests for Two Independent Sensitivities – Z-Test (Unpooled)
+Tests for Two Independent Sensitivities – Z-Test (Unpooled) – Unequal n’s
+Tests for Two Independent Sensitivities – Z-Test (Pooled) with Continuity Correction
+Tests for Two Independent Sensitivities – Z-Test (Pooled) with Continuity Correction – Unequal n’s
+Tests for Two Independent Sensitivities – Z-Test (Unpooled) with Continuity Correction
+Tests for Two Independent Sensitivities – Z-Test (Unpooled) with Continuity Correction – Unequal n’s
+Tests for Two Independent Sensitivities – Mantel-Haenszel Test
+Tests for Two Independent Sensitivities – Mantel-Haenszel Test – Unequal n’s
+Tests for Two Independent Sensitivities – Likelihood Ratio Test
+Tests for Two Independent Sensitivities – Likelihood Ratio Test – Unequal n’s
+Confidence Intervals for One-Sample Sensitivity
+Confidence Intervals for One-Sample Specificity
+Confidence Intervals for One-Sample Sensitivity and Specificity
+Tests for Paired Specificities
+Tests for Two Independent Specificities
+Single-Case (AB)K Designs - 1 Scenario
+Tests for the Difference Between Treatment and Control Means in Single-Case (AB)K Designs
+Superiority by a Margin Tests - 142 Scenarios
+Superiority by a Margin Tests for One Mean
+Superiority by a Margin Tests for Paired Means
+Superiority by a Margin Tests for Two Means using Differences
+Superiority by a Margin Tests for Two Means using Differences – Unequal n’s
+Superiority by a Margin Tests for Two Means using Ratios
+Superiority by a Margin Tests for Two Means using Ratios – Unequal n’s
+Superiority by a Margin Tests for the Ratio of Two Poisson Rates
+Superiority by a Margin Tests for the Ratio of Two Poisson Rates – Unequal n’s
+Superiority by a Margin Tests for the Ratio of Two Negative Binomial Rates
+Superiority by a Margin Tests for the Ratio of Two Negative Binomial Rates – Unequal n’s
+Superiority by a Margin Tests for Two Means in a 2x2 Cross-Over Design using Differences
+Superiority by a Margin Tests for Two Means in a 2x2 Cross-Over Design using Ratios
+Superiority by a Margin Tests for Two Means in a Higher-Order Cross-Over Design using Differences
+Superiority by a Margin Tests for Two Means in a Higher-Order Cross-Over Design using Ratios
+Superiority by a Margin Tests for Two Means in a Cluster-Randomized Design
+Superiority by a Margin Tests for One Proportion – Exact
+Superiority by a Margin Tests for One Proportion – Z-Test using S(P0)
+Superiority by a Margin Tests for One Proportion – Z-Test using S(P0) with Continuity Correction
+Superiority by a Margin Tests for One Proportion – Z-Test using S(Phat)
+Superiority by a Margin Tests for One Proportion – Z-Test using S(Phat) with Continuity Correction
+Superiority by a Margin Tests for One Proportion using Differences
+Superiority by a Margin Tests for One Proportion using Ratios
+Superiority by a Margin Tests for One Proportion using Odds Ratios
+Superiority by a Margin Tests for Two Proportions – Z-Test (Pooled)
+Superiority by a Margin Tests for Two Proportions – Z-Test (Pooled) – Unequal n’s
+Superiority by a Margin Tests for Two Proportions – Z-Test (Unpooled)
+Superiority by a Margin Tests for Two Proportions – Z-Test (Unpooled) – Unequal n’s
+Superiority by a Margin Tests for Two Proportions – Z-Test (Pooled) with Continuity Correction
+Superiority by a Margin Tests for Two Proportions – Z-Test (Pooled) with Continuity Correction – Unequal n’s
+Superiority by a Margin Tests for Two Proportions – Z-Test (Unpooled) with Continuity Correction
+Superiority by a Margin Tests for Two Proportions – Z-Test (Unpooled) with Continuity Correction – Unequal n’s
+Superiority by a Margin Tests for Two Proportions – Likelihood Score (Farrington & Manning)
+Superiority by a Margin Tests for Two Proportions – Likelihood Score (Farrington & Manning) – Unequal n’s
+Superiority by a Margin Tests for Two Proportions – Likelihood Score (Miettinen & Nurminen)
+Superiority by a Margin Tests for Two Proportions – Likelihood Score (Miettinen & Nurminen) – Unequal n’s
+Superiority by a Margin Tests for Two Proportions – Likelihood Score (Gart & Nam)
+Superiority by a Margin Tests for Two Proportions – Likelihood Score (Gart & Nam) – Unequal n’s
+Superiority Test of Two Proportions from a Cluster-Randomized Design – Z Test (Pooled)
+Superiority Test of Two Proportions from a Cluster-Randomized Design – Z Test (Pooled) – Unequal n’s
+Superiority Test of Two Proportions from a Cluster-Randomized Design – Z Test (Unpooled)
+Superiority Test of Two Proportions from a Cluster-Randomized Design – Z Test (Unpooled) – Unequal n’s
+Superiority Test of Two Proportions from a Cluster-Randomized Design – Likelihood Score Test
+Superiority Test of Two Proportions from a Cluster-Randomized Design – Likelihood Score Test – Unequal n’s
+Superiority by a Margin Tests for Two Proportions using Differences
+Superiority by a Margin Tests for Two Proportions using Ratios
+Superiority by a Margin Tests for Two Proportions using Odds Ratios
+Group-Sequential Superiority by a Margin Tests for Two Proportions (Simulation) – Z-Test (Pooled)
+Group-Sequential Superiority by a Margin Tests for Two Proportions (Simulation) – Z-Test (Pooled) – Unequal n’s
+Group-Sequential Superiority by a Margin Tests for Two Proportions (Simulation) – Z-Test (Unpooled)
+Group-Sequential Superiority by a Margin Tests for Two Proportions (Simulation) – Z-Test (Unpooled) – Unequal n’s
+Group-Sequential Superiority by a Margin Tests for Two Proportions (Simulation) – Z-Test (Pooled) with Continuity Correction
+Group-Sequential Superiority by a Margin Tests for Two Proportions (Simulation) – Z-Test (Pooled) with Continuity Correction – Unequal n’s
+Group-Sequential Superiority by a Margin Tests for Two Proportions (Simulation) – Z-Test (Unpooled) with Continuity Correction
+Group-Sequential Superiority by a Margin Tests for Two Proportions (Simulation) – Z-Test (Unpooled) with Continuity Correction – Unequal n’s
+Group-Sequential Superiority by a Margin Tests for Two Proportions (Simulation) – Likelihood Score (Farrington & Manning)
+Group-Sequential Superiority by a Margin Tests for Two Proportions (Simulation) – Likelihood Score (Farrington & Manning) – Unequal n’s
+Group-Sequential Superiority by a Margin Tests for Two Proportions (Simulation) – Likelihood Score (Miettinen & Nurminen)
+Group-Sequential Superiority by a Margin Tests for Two Proportions (Simulation) – Likelihood Score (Miettinen & Nurminen) – Unequal n’s
+Group-Sequential Superiority by a Margin Tests for Two Proportions (Simulation) – Likelihood Score (Gart & Nam)
+Group-Sequential Superiority by a Margin Tests for Two Proportions (Simulation) – Likelihood Score (Gart & Nam) – Unequal n’s
+Group-Sequential Superiority by a Margin Tests for Two Proportions using Differences (Simulation)
+Group-Sequential Superiority by a Margin Tests for Two Proportions using Ratios (Simulation)
+Group-Sequential Superiority by a Margin Tests for Two Proportions using Odds Ratios (Simulation)
+Group-Sequential Superiority by a Margin Tests for Two Hazard Rates (Simulation)
+Group-Sequential Superiority by a Margin Tests for Two Hazard Rates (Simulation) – Unequal n’s
+Group-Sequential Superiority by a Margin Tests for Two Means with Known Variances (Simulation)
+Group-Sequential Superiority by a Margin Tests for Two Means with Known Variances (Simulation) – Unequal n’s
+Group-Sequential Superiority by a Margin T-Tests for Two Means (Simulation)
+Group-Sequential Superiority by a Margin T-Tests for Two Means (Simulation) – Unequal n’s
+Group-Sequential Superiority by a Margin Tests for Two Proportions (Simulation)
+Group-Sequential Superiority by a Margin Tests for Two Proportions (Simulation) – Unequal n’s
+Superiority by a Margin Tests for Two Proportions in a Cluster-Randomized Design – Z Test (Pooled)
+Superiority by a Margin Tests for Two Proportions in a Cluster-Randomized Design – Z Test (Pooled) – Unequal n’s
+Superiority by a Margin Tests for Two Proportions in a Cluster-Randomized Design – Z Test (Unpooled)
+Superiority by a Margin Tests for Two Proportions in a Cluster-Randomized Design – Z Test (Unpooled) – Unequal n’s
+Superiority by a Margin Tests for Two Proportions in a Cluster-Randomized Design – Z Test (Pooled)
+Superiority by a Margin Tests for Two Proportions in a Cluster-Randomized Design – Z Test (Pooled) – Unequal n’s
+Superiority by a Margin Tests for Two Proportions in a Cluster-Randomized Design using Proportions
+Superiority by a Margin Tests for Two Proportions in a Cluster-Randomized Design using Differences
+Superiority by a Margin Tests for Two Proportions in a Cluster-Randomized Design using Ratios
+Superiority by a Margin Tests for Two Survival Curves Using Cox’s Proportional Hazards Model
+Superiority by a Margin Tests for Two Survival Curves Using Cox’s Proportional Hazards Model – Unequal n’s
+Superiority by a Margin Tests for the Difference of Two Hazard Rates Assuming an Exponential Model
+Superiority by a Margin Tests for the Difference of Two Hazard Rates Assuming an Exponential Model – Unequal n’s
+Superiority by a Margin Tests for the Odds Ratio of Two Proportions in a 2x2 Cross-Over Design
+Superiority by a Margin Tests for the Difference of Two Proportions in a 2x2 Cross-Over Design
+Superiority by a Margin Tests for the Ratio of Two Poisson Rates in a 2x2 Cross-Over Design
+Superiority by a Margin Tests for the Gen. Odds Ratio for Ordinal Data in a 2x2 Cross-Over Design
+Superiority by a Margin Tests for Pairwise Proportion Differences in a Williams Cross-Over Design
+Superiority by a Margin Tests for Pairwise Mean Differences in a Williams Cross-Over Design
+Conditional Power of Two-Sample T-Tests for Superiority by a Margin
+Conditional Power of Superiority by a Margin Tests for the Difference Between Two Proportions
+Conditional Power of Superiority by a Margin Logrank Tests
+Conditional Power of Superiority by a Margin Tests for Two Means in a 2x2 Cross-Over Design
+Conditional Power of One-Sample T-Tests for Superiority by a Margin
+Conditional Power of Paired T-Tests for Superiority by a Margin
+Conditional Power of Superiority by a Margin Tests for One Proportion
+Superiority by a Margin Tests for the Difference Between Two Proportions
+Superiority by a Margin Tests for the Ratio of Two Proportions
+Superiority by a Margin Tests for the Odds Ratio of Two Proportions
+Superiority by a Margin Tests for the Difference of Two Proportions in a Cluster-Randomized Design
+Superiority by a Margin Tests for the Ratio of Two Proportions in a Cluster-Randomized Design
+Superiority by a Margin Tests for Simple Linear Regression
+Superiority by a Margin Tests for the Ratio of Two Within-Subject Variances in a Parallel Design
+Superiority by a Margin Tests for the Ratio of Two Within-Subject Variances in a 2×2M Replicated Cross-Over Design
+Superiority by a Margin Tests for the Difference of Two Within-Subject CV's in a Parallel Design
+Superiority by a Margin Tests for the Ratio of Two Variances
+Superiority by a Margin Tests for Two Between-Subject Variances in a 2×2M Replicated Cross-Over Design
+Superiority by a Margin Tests for Two Total Variances in a 2×2M Replicated Cross-Over Design
+Superiority by a Margin Tests for Two Total Variances in a Replicated Design
+Superiority by a Margin Tests for Two Total Variances in a 2×2 Cross-Over Design
+Superiority by a Margin Tests for Two Between Variances in a Replicated Design
+One-Sample Z-Tests for Superiority by a Margin
+Wilcoxon Signed-Rank Tests for Superiority by a Margin
+Paired T-Tests for Superiority by a Margin
+Paired Z-Tests for Superiority by a Margin
+Paired Wilcoxon Signed-Rank Tests for Superiority by a Margin
+Two-Sample T-Tests for Superiority by a Margin Assuming Equal Variance
+Two-Sample T-Tests for Superiority by a Margin Allowing Unequal Variance
+Mann-Whitney U or Wilcoxon Rank-Sum Tests for Superiority by a Margin
+Multi-Arm, Superiority by a Margin Tests of the Difference Between Treatment and Control Proportions
+Multi-Arm, Superiority by a Margin Tests of the Ratio of Treatment and Control Proportions
+Multi-Arm, Superiority by a Margin Tests of the Odds Ratio of Treatment and Control Proportions
+Multi-Arm, Superiority by a Margin Tests of the Difference Between Treatment and Control Means Assuming Equal Variance
+Multi-Arm, Superiority by a Margin Tests of the Ratio of Treatment and Control Means Assuming Normal Data with Equal Variance
+Multi-Arm, Superiority by a Margin Tests of the Ratio of Treatment and Control Means Assuming Log-Normal Data
+Multi-Arm, Superiority by a Margin Tests of the Difference Between Treatment and Control Means Allowing Unequal Variances
+Multi-Arm, Superiority by a Margin Tests Comparing Treatment and Control Survival Curves Using the Cox's Proportional Hazards Model
+Multi-Arm, Superiority by a Margin Tests for Vaccine Efficacy Using the Ratio of Treatment and Control Proportions
+Multi-Arm, Superiority by a Margin Tests for Vaccine Efficacy Comparing Treatment and Control Survival Curves Using the Cox's Proportional Hazards Model
+Multi-Arm Superiority by a Margin Tests for Treatment and Control Means in a Cluster-Randomized Design
+Multi-Arm Superiority by a Margin Tests for the Difference of Treatment and Control Proportions in a Cluster-Randomized Design
+Multi-Arm Superiority by a Margin Tests for the Ratio of Treatment and Control Proportions in a Cluster-Randomized Design
+Multi-Arm Superiority by a Margin Tests for Vaccine Efficacy using the Ratio of Treatment and Control Proportions in a Cluster-Randomized Design
+Multi-Arm Superiority by a Margin Tests for Survival Curves using Cox's Proportional Hazards in a Cluster-Randomized Design
+Superiority by a Margin Tests for Two Survival Curves using Cox's Proportional Hazards in a Cluster-Randomized Design
+Superiority by a Margin Tests for the Ratio of Two Recurrent Event Rates Assuming the Andersen-Gill Model
+Superiority by a Margin Tests for the Difference Between Two Correlated Proportions (Conditional McNemar's Test)
+Superiority by a Margin Tests for Two Means in a Cluster-Randomized Design with Clustering in Only One Arm
+Superiority by a Margin Tests for Two Proportions in a Cluster-Randomized Design with Clustering in Only One Arm
+Superiority by a Margin Tests for the Ratio of Two Poisson Rates in a Cluster-Randomized Design using GEE
+Superiority by a Margin Tests for Vaccine Efficacy using the Ratio of Two Poisson Rates in a Cluster-Randomized Design using GEE
+Survival Analysis - 110 Scenarios
+Click here to see additional details about survival procedures in PASS.
+One-Sample Logrank Tests
+One-Sample Cure Model Tests
+Logrank Tests (Input Hazard Rates)
+Logrank Tests (Input Median Survival Times)
+Logrank Tests (Input Proportion Surviving)
+Logrank Tests (Input Mortality)
+Logrank Tests for Two Survival Curves Using Cox’s Proportional Hazards Model
+Logrank Tests – Unequal n’s
+Two-Group Survival Comparison Tests (Simulation) – Logrank
+Two-Group Survival Comparison Tests (Simulation) – Logrank – Unequal n’s
+Two-Group Survival Comparison Tests (Simulation) – Gehan-Wilcoxon
+Two-Group Survival Comparison Tests (Simulation) – Gehan-Wilcoxon – Unequal n’s
+Two-Group Survival Comparison Tests (Simulation) – Tarone-Ware
+Two-Group Survival Comparison Tests (Simulation) – Tarone-Ware – Unequal n’s
+Two-Group Survival Comparison Tests (Simulation) – Peto-Peto
+Two-Group Survival Comparison Tests (Simulation) – Peto-Peto – Unequal n’s
+Two-Group Survival Comparison Tests (Simulation) – Modified Peto-Peto
+Two-Group Survival Comparison Tests (Simulation) – Modified Peto-Peto – Unequal n’s
+Two-Group Survival Comparison Tests (Simulation) – Fleming-Harrington Custom Parameters
+Two-Group Survival Comparison Tests (Simulation) – Fleming-Harrington Custom Parameters – Unequal n’s
+Logrank Tests with Proportional Hazards (Rubinstein and Wu)
+Logrank Tests with Proportional Hazards (Freedman and Wu)
+Logrank Tests with Proportional Hazards (Schoenfeld and Wu)
+Logrank Tests with Non-Proportional Hazards (Lakatos and Wu)
+Weighted Logrank Tests with Fleming-Harrington Weights Allowing Delayed Onset (Hasegawa)
+Weighted Logrank Tests with Non-Proportional Hazards (Lakatos and Wu)
+Logrank Tests for Paired Survival Data
+Kaplan-Meier Tests for Paired Survival Data
+Logrank Tests in a Cluster-Randomized Design
+Tests for Two Survival Curves using Cox’s Proportional Hazards Model
+Tests for Two Survival Curves using Cox’s Proportional Hazards Model – Unequal n’s
+Tests for the Difference of Two Hazard Rates Assuming an Exponential Model
+Tests for the Difference of Two Hazard Rates Assuming an Exponential Model – Unequal n’s
+Logrank Tests Accounting for Competing Risks
+Logrank Tests Accounting for Competing Risks – Unequal n’s
+Non-Inferiority Logrank Tests
+Non-Inferiority Logrank Tests – Unequal n’s
+Non-Inferiority Tests for Two Survival Curves using Cox’s Proportional Hazards Model
+Non-Inferiority Tests for Two Survival Curves using Cox’s Proportional Hazards Model – Unequal n’s
+Non-Inferiority Tests for Difference of Two Hazard Rates Assuming an Exponential Model
+Non-Inferiority Tests for Difference of Two Hazard Rates Assuming an Exponential Model – Unequal n’s
+Equivalence Tests for Two Survival Curves using Cox’s Proportional Hazards Model
+Equivalence Tests for Two Survival Curves using Cox’s Proportional Hazards Model – Unequal n’s
+Equivalence Tests for Difference of Two Hazard Rates Assuming an Exponential Model
+Equivalence Tests for Difference of Two Hazard Rates Assuming an Exponential Model – Unequal n’s
+Superiority by a Margin Tests for Two Survival Curves using Cox’s Proportional Hazards Model
+Superiority by a Margin Tests for Two Survival Curves using Cox’s Proportional Hazards Model – Unequal n’s
+Superiority by a Margin Tests for Difference of Two Hazard Rates Assuming an Exponential Model
+Superiority by a Margin Tests for Difference of Two Hazard Rates Assuming an Exponential Model – Unequal n’s
+Group-Sequential Logrank Tests of Two Survival Curves assuming Exponential Survival
+Group-Sequential Logrank Tests of Two Survival Curves assuming Proportional Hazards
+Group-Sequential Logrank Tests using Hazard Rates (Simulation)
+Group-Sequential Logrank Tests using Median Survival Times (Simulation)
+Group-Sequential Logrank Tests using Proportion Surviving (Simulation)
+Group-Sequential Logrank Tests using Mortality (Simulation)
+Group-Sequential Logrank Tests (Simulation) – Unequal n’s
+Group-Sequential Logrank Tests (Simulation) – Gehan-Wilcoxon
+Group-Sequential Logrank Tests (Simulation) – Gehan-Wilcoxon – Unequal n’s
+Group-Sequential Logrank Tests (Simulation) – Tarone-Ware
+Group-Sequential Logrank Tests (Simulation) – Tarone-Ware – Unequal n’s
+Group-Sequential Logrank Tests (Simulation) – Peto-Peto
+Group-Sequential Logrank Tests (Simulation) – Peto-Peto – Unequal n’s
+Group-Sequential Logrank Tests (Simulation) – Modified Peto-Peto
+Group-Sequential Logrank Tests (Simulation) – Modified Peto-Peto – Unequal n’s
+Group-Sequential Logrank Tests (Simulation) – Fleming-Harrington Custom Parameters
+Group-Sequential Logrank Tests (Simulation) – Fleming-Harrington Custom Parameters – Unequal n’s
+Group-Sequential Tests for Two Hazard Rates (Simulation)
+Group-Sequential Tests for Two Hazard Rates (Simulation) – Unequal n’s
+Group-Sequential Non-Inferiority Tests for Two Hazard Rates (Simulation)
+Group-Sequential Non-Inferiority Tests for Two Hazard Rates (Simulation) – Unequal n’s
+Group-Sequential Superiority by a Margin Tests for Two Hazard Rates (Simulation)
+Group-Sequential Superiority by a Margin Tests for Two Hazard Rates (Simulation) – Unequal n’s
+Conditional Power of Logrank Tests
+Cox Regression
+Tests for One Exponential Mean with Replacement
+Tests for One Exponential Mean without Replacement
+Tests for Two Exponential Means
+Tests for Two Exponential Means – Unequal n’s
+Confidence Intervals for the Exponential Lifetime Mean
+Confidence Intervals for the Exponential Hazard Rate
+Confidence Intervals for an Exponential Lifetime Percentile
+Confidence Intervals for Exponential Reliability
+Probit Analysis - Probit
+Probit Analysis – Logit
+Logrank Tests – Freedman
+Logrank Tests – Freedman – Unequal n’s
+Logrank Tests – Lachin and Foulkes
+Logrank Tests – Lachin and Foulkes – Unequal n’s
+Conditional Power of Non-Inferiority Logrank Tests
+Conditional Power of Superiority by a Margin Logrank Tests
+Tests of Mediation Effect in Cox Regression
+One-Sample Tests for Exponential Hazard Rate
+Multi-Arm Tests Comparing Treatment and Control Survival Curves Using the Cox's Proportional Hazards Model
+Multi-Arm, Non-Inferiority Tests Comparing Treatment and Control Survival Curves Using the Cox's Proportional Hazards Model
+Multi-Arm, Superiority by a Margin Tests Comparing Treatment and Control Survival Curves Using the Cox's Proportional Hazards Model
+Multi-Arm, Equivalence Tests Comparing Treatment and Control Survival Curves Using the Cox's Proportional Hazards Model
+Multi-Arm, Non-Inferiority Tests for Vaccine Efficacy Comparing Treatment and Control Survival Curves Using the Cox's Proportional Hazards Model
+Multi-Arm, Superiority by a Margin Tests for Vaccine Efficacy Comparing Treatment and Control Survival Curves Using the Cox's Proportional Hazards Model
+Multi-Arm Tests for Survival Curves using Cox's Proportional Hazards in a Cluster-Randomized Design
+Multi-Arm Non-Inferiority Tests for Survival Curves using Cox's Proportional Hazards in a Cluster-Randomized Design
+Multi-Arm Superiority by a Margin Tests for Survival Curves using Cox's Proportional Hazards in a Cluster-Randomized Design
+Multi-Arm Equivalence Tests for Survival Curves using Cox's Proportional Hazards in a Cluster-Randomized Design
+Tests for Two Survival Curves using Cox's Proportional Hazards in a Cluster-Randomized Design
+Non-Inferiority Tests for Two Survival Curves using Cox's Proportional Hazards in a Cluster-Randomized Design
+Superiority by a Margin Tests for Two Survival Curves using Cox's Proportional Hazards in a Cluster-Randomized Design
+Equivalence Tests for Two Survival Curves using Cox's Proportional Hazards in a Cluster-Randomized Design
+Tests for the Ratio of Two Recurrent Event Rates Assuming the Andersen-Gill Model
+Non-Inferiority Tests for the Ratio of Two Recurrent Event Rates Assuming the Andersen-Gill Model
+Superiority by a Margin Tests for the Ratio of Two Recurrent Event Rates Assuming the Andersen-Gill Model
+Equivalence Tests for the Ratio of Two Recurrent Event Rates Assuming the Andersen-Gill Model
+Logrank Tests Assuming an Exponential Model using Historical Controls
+Tolerance Intervals - 6 Scenarios
+Tolerance Intervals for Normal Data
+Tolerance Intervals for Any Data (Nonparametric)
+Tolerance Intervals for Exponential Data
+Tolerance Intervals for Gamma Data
+Tests for One Proportion to Demonstrate Conformance with a Reliability Standard
+Tests for One Proportion to Demonstrate Conformance with a Reliability Standard with Fixed Adverse Events
+Two-Part Models - 2 Scenarios
+Tests for Two Groups Assuming a Two-Part Model
+Tests for Two Groups Assuming a Two-Part Model with Detection Limits
+Variances and Standard Deviations - 68 Scenarios
+Click here to see additional details about variances and standard deviations in PASS.
+Tests for One Variance
+Tests for Two Variances
+Tests for Two Variances – Unequal n’s
+Bartlett Test of Variances (Simulation)
+Bartlett Test of Variances (Simulation) – Unequal n’s
+Levene Test of Variances (Simulation)
+Levene Test of Variances (Simulation) – Unequal n’s
+Brown-Forsythe Test of Variances (Simulation)
+Brown-Forsythe Test of Variances (Simulation) – Unequal n’s
+Conover Test of Variances (Simulation)
+Conover Test of Variances (Simulation) – Unequal n’s
+Power Comparison of Tests of Variances with Simulation
+Power Comparison of Tests of Variances with Simulation – Unequal n’s
+Confidence Intervals for One Standard Deviation using Standard Deviation
+Confidence Intervals for One Standard Deviation using Relative Error
+Confidence Intervals for One Standard Deviation with Tolerance Probability – Known Standard Deviation
+Confidence Intervals for One Standard Deviation with Tolerance Probability – Sample Standard Deviation
+Confidence Intervals for One Variance using Variance
+Confidence Intervals for One Variance using Relative Error
+Confidence Intervals for One Variance with Tolerance Probability – Known Variance
+Confidence Intervals for One Variance with Tolerance Probability – Sample Variance
+Confidence Intervals for the Ratio of Two Variances using Variances
+Confidence Intervals for the Ratio of Two Variances using Variances – Unequal n’s
+Confidence Intervals for the Ratio of Two Variances using Relative Error
+Confidence Intervals for the Ratio of Two Variances using Relative Error – Unequal n’s
+Quality Control Charts for Variability – R (Simulation)
+Quality Control Charts for Variability – S (Simulation)
+Quality Control Charts for Variability – S with Probability Limits (Simulation)
+Equivalence Tests for the Ratio of Two Within-Subject Variances in a Parallel Design
+Non-Inferiority Tests for the Ratio of Two Within-Subject Variances in a Parallel Design
+Superiority by a Margin Tests for the Ratio of Two Within-Subject Variances in a Parallel Design
+Tests for the Ratio of Two Within-Subject Variances in a Parallel Design
+Non-Unity Null Tests for the Ratio of Within-Subject Variances in a Parallel Design
+Equivalence Tests for the Ratio of Two Within-Subject Variances in a 2×2M Replicated Cross-Over Design
+Non-Inferiority Tests for the Ratio of Two Within-Subject Variances in a 2×2M Replicated Cross-Over Design
+Superiority by a Margin Tests for the Ratio of Two Within-Subject Variances in a 2×2M Replicated Cross-Over Design
+Tests for the Ratio of Two Within-Subject Variances in a 2×2M Replicated Cross-Over Design
+Non-Unity Null Tests for the Ratio of Within-Subject Variances in a 2×2M Replicated Cross-Over Design
+Tests for the Ratio of Two Variances
+Non-Unity Null Tests for the Ratio of Two Variances
+Non-Inferiority Tests for the Ratio of Two Variances
+Superiority by a Margin Tests for the Ratio of Two Variances
+Equivalence Tests for the Ratio of Two Variances
+Tests for Two Between-Subject Variances in a 2×2M Replicated Cross-Over Design
+Non-Unity Null Tests for Two Between-Subject Variances in a 2×2M Replicated Cross-Over Design
+Non-Inferiority Tests for Two Between-Subject Variances in a 2×2M Replicated Cross-Over Design
+Superiority by a Margin Tests for Two Between-Subject Variances in a 2×2M Replicated Cross-Over Design
+Tests for Two Total Variances in a 2×2M Replicated Cross-Over Design
+Non-Unity Null Tests for Two Total Variances in a 2×2M Replicated Cross-Over Design
+Non-Inferiority Tests for Two Total Variances in a 2×2M Replicated Cross-Over Design
+Superiority by a Margin Tests for Two Total Variances in a 2×2M Replicated Cross-Over Design
+Tests for Two Total Variances in a Replicated Design
+Non-Unity Null Tests for Two Total Variances in a Replicated Design
+Non-Inferiority Tests for Two Total Variances in a Replicated Design
+Superiority by a Margin Tests for Two Total Variances in a Replicated Design
+Tests for Two Total Variances in a 2×2 Cross-Over Design
+Non-Unity Null Tests for Two Total Variances in a 2×2 Cross-Over Design
+Non-Inferiority Tests for Two Total Variances in a 2×2 Cross-Over Design
+Superiority by a Margin Tests for Two Total Variances in a 2×2 Cross-Over Design
+Tests for Two Between Variances in a Replicated Design
+Non-Unity Null Tests for Two Between Variances in a Replicated Design
+Non-Inferiority Tests for Two Between Variances in a Replicated Design
+Superiority by a Margin Tests for Two Between Variances in a Replicated Design
+Tests for the Difference of Two Within-Subject CV's in a Parallel Design
+Non-Zero Null Tests for the Difference of Two Within-Subject CV's in a Parallel Design
+Non-Inferiority Tests for the Difference of Two Within-Subject CV's in a Parallel Design
+Superiority by a Margin Tests for the Difference of Two Within-Subject CV's in a Parallel Design
+Equivalence Tests for the Difference of Two Within-Subject CV's in a Parallel Design
+Win-Ratio Composite Endpoint - 2 Scenarios
+Tests Comparing Two Groups Using the Win-Ratio Composite Endpoint
+Tests for Two Groups using the Win-Ratio Composite Endpoint in a Stratified Design
+Bayesian Adjustment
+Bayesian Adjustment using the Posterior Error Approach
+Tools
+Installation Validation Tool for Installation Qualification (IQ)
+Procedure Validation Tool for Operational Qualification (OQ)
+Chi-Square Effect-Size Estimator
+Multinomial Effect-Size Estimator
+Odds Ratio to Proportions Converter
+Probability Calculator (Various Distributions)
+Standard Deviation Estimator
+Survival Parameter Conversion Tool
+Standard Deviation of Means Calculator
+Data Simulator
+Design of Experiments (Non-Sample Size Tools)
+These tools are used to generate designs, not to estimate or analyze sample size.
+Balanced Incomplete Block Designs
+D-Optimal Designs
+Design Generator
+Fractional Factorial Designs
+Latin Square Designs
+Response Surface Designs
+Screening Designs
+Taguchi Designs
+Two-Level Designs
+Randomization Lists
