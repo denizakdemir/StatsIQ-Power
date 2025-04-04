@@ -1,0 +1,147 @@
+Maximum Detail List - Methods, Features, Implementation from Power And Precision Manual:
+
+**I. Means Tests (T-Tests & Z-Tests):**
+
+*   **One Group T-Test (Estimated Variance):**
+    *   *Purpose:* Compare sample mean to a hypothesized value (0 or specified constant).
+    *   *Power Calculation:* Non-Central T-distribution (IMSL: DTIN, DTDF). NCP = `d * sqrt(N)`. `df = N - 1`.
+    *   *Precision Calculation (CI for Mean):* Central T-distribution. Median CI width displayed. `Width ~ t_crit * (SD / sqrt(N)) * ToleranceFactor`.
+    *   *Effect Size (d):* `Mean Difference / SD`. Input: Mean, SD, [Constant]. Direct input via SD=1. Conventions: Small(0.20), Medium(0.50), Large(0.80).
+    *   *Software Features:* 'Find N' icon, Spin control for N, Alpha/CI/Tails options panel, 'Customize screen' (show 'd'), Tolerance Intervals display (uses Chi-Square dist, `DCHIIN`), Save/Load study (.pow), Report generation, Tables/Graphs. Option: Test mean = 0 vs. Test mean = specified value. Option: Use Z-test (known variance) via 'Computational formulas'.
+*   **One Group Z-Test (Known Variance):**
+    *   *Purpose:* As T-Test, but variance known.
+    *   *Power Calculation:* Normal (Z) distribution (IMSL: DNORIN, DNORDF). NCP equivalent = `d * sqrt(N)`.
+    *   *Precision Calculation (CI for Mean):* Normal (Z) distribution. Exact width. `Width = 2 * Z_crit * (Known SD / sqrt(N))`.
+    *   *Effect Size (d):* `Mean Difference / Known SD`. Input: Mean, Known SD, [Constant].
+*   **Paired T-Test (Estimated Variance):**
+    *   *Purpose:* Compare two related means (e.g., pre/post).
+    *   *Power Calculation:* Non-Central T-distribution on difference scores. NCP = `d_diff * sqrt(N_pairs)`. `df = N_pairs - 1`.
+    *   *Precision Calculation (CI for Mean Difference):* Central T-distribution on difference scores. Median CI width displayed.
+    *   *Effect Size (d_diff):* `Mean Difference / SD of Difference`. Input: Mean Diff & SD_diff OR use Assistant (`SD_diff = sqrt(SD1^2 + SD2^2 - 2*Corr*SD1*SD2)`). Conventions available.
+    *   *Software Features:* As One Group T-Test, plus SD Assistant. Option: Test diff = 0 vs. Test diff = specified value. Option: Use Z-test via 'Computational formulas'.
+*   **Paired Z-Test (Known Variance):**
+    *   *Purpose:* As Paired T-Test, but variance of difference known.
+    *   *Power Calculation:* Normal (Z) distribution on difference scores. NCP equivalent = `d_diff * sqrt(N_pairs)`.
+    *   *Precision Calculation (CI for Mean Difference):* Normal (Z) distribution. Exact width.
+    *   *Effect Size (d_diff):* `Mean Difference / Known SD of Difference`.
+*   **Independent Groups T-Test (Estimated Variance):**
+    *   *Purpose:* Compare means of two independent groups.
+    *   *Assumption:* Common within-group variance.
+    *   *Power Calculation:* Non-Central T-distribution. NCP = `d * sqrt(HarmonicN / 2)`. `df = N1 + N2 - 2`. Pooled SD used.
+    *   *Precision Calculation (CI for Mean Difference):* Central T-distribution. Median CI width displayed. `SE_diff = SD_pooled * sqrt(1/N1 + 1/N2)`.
+    *   *Effect Size (d):* `Mean Difference / SD_pooled`. Input: Means & Common SD OR Mean Diff & Common SD OR Means & Separate SDs (pooled). Direct input via SD=1. Conventions available.
+    *   *Software Features:* As One Group T-Test, plus Link/Unlink N per group option (via 'N Per Group' or 'N-Cases' menu).
+*   **Independent Groups Z-Test (Known Variance):**
+    *   *Purpose:* As Independent T-Test, but variance known and equal.
+    *   *Assumption:* Known, common within-group variance.
+    *   *Power Calculation:* Normal (Z) distribution. NCP equivalent = `d * sqrt(HarmonicN / 2)`.
+    *   *Precision Calculation (CI for Mean Difference):* Normal (Z) distribution. Exact width.
+    *   *Effect Size (d):* `Mean Difference / Known SD_pooled`.
+*   **Equivalence Tests for Means:**
+    *   *Purpose:* Demonstrate means are equivalent within margin `Diff`.
+    *   *Framework:* Based on Independent Groups T-Test (Non-Central T). Implicit TOST.
+    *   *Power Calculation:* Based on rejecting H0: |Mean1 - Mean2| >= Diff. Effective `d` for power is `(|Expected Mean Diff| - Diff) / SD_pooled`. Test is always one-tailed from software perspective.
+    *   *Input:* Expected Means, Common SD, Acceptable Difference. Hypothesis options (New >= Control-Diff, etc.).
+
+**II. Proportions Tests:**
+
+*   **One Sample Proportion Test:**
+    *   *Purpose:* Compare sample proportion to a hypothesized value (50% or specified constant).
+    *   *Power Calculation Options:* Arcsin Transformation (Normal Approx.), Exact Binomial Method (IMSL: `DBINPR`).
+    *   *Precision Calculation Options (CI for Proportion):* Normal Approximation (Wilson score variant), Exact Binomial Method (Clopper-Pearson implied, IMSL: `DBINES`).
+    *   *Effect Size Input:* Population Proportion (H1), [Constant (H0)]. Conventions available.
+    *   *Software Features:* 'Find N' only for Arcsin. Displays actual alpha for Exact. Option: Test P=0.5 vs Test P=Constant.
+*   **Two Independent Proportions Test:**
+    *   *Purpose:* Compare proportions from two independent groups.
+    *   *Power Calculation Options:* Arcsin, Normal Approx (Unweighted/Weighted MeanP), Kramer-Greenhouse, Casagrande & Pike, Chi-Square (Non-Central Chi-Sq, `DSNDF`, NCP from `CTTWO`), Chi-Sq w/ Yates, Fisher's Exact (Iterative Hypergeometric).
+    *   *Precision Calculation Options (CI):* Rate Difference (Normal Approx.), Odds Ratio (Log Method), Relative Risk (Log Method), Cornfield Method (Iterative Chi-Sq).
+    *   *Effect Size Input:* Proportion for each group. Conventions available.
+    *   *Software Features:* 'Find N' for approx methods. Link/Unlink N. 'Customize screen' to show OR/RR. Casagrande & Pike recommended.
+*   **Paired Proportions Test (McNemar Test):**
+    *   *Purpose:* Compare proportions for paired samples.
+    *   *Analysis Basis:* Discordant pairs (b, c). Tests `P_b = P_c`.
+    *   *Power Calculation Options (as One Sample Prop vs 50% on N=b+c):* Arcsin Approx., Exact Binomial Method.
+    *   *Effect Size Input:* Proportion for each of the 4 cells (AA, AB, BA, BB).
+*   **Sign Test:**
+    *   *Purpose:* Test if proportion in one of two categories = 50%.
+    *   *Power Calculation Options (as One Sample Prop vs 50%):* Arcsin Approx., Exact Binomial Method.
+    *   *Effect Size Input:* Proportion for one category. Conventions available.
+*   **K x C Crosstabulation Test:**
+    *   *Purpose:* Test association between two categorical variables.
+    *   *Power Calculation:* Non-Central Chi-Square (`DSNDF`). NCP = `w^2 * N_total`. `df = (K-1)*(C-1)`. Critical Chi-Sq from `DCHIIN`.
+    *   *Effect Size (w):* `sqrt(SUM[(P_alt - P_null)^2 / P_null])`. Input: % per column within row, % of total N per row.
+    *   *Software Features:* Set K, C dimensions. Display Contingency Coeff (C), Cramér's phi.
+*   **Equivalence Tests for Proportions:**
+    *   *Purpose:* Demonstrate proportions are equivalent within margin `Diff`.
+    *   *Framework:* Based on Independent Groups Normal Approximation (Weighted Mean P variant implied). Implicit TOST. Always one-tailed test from software perspective.
+    *   *Power Calculation:* Based on rejecting H0: |P1 - P2| >= Diff. Effective difference for power is `(|Expected P1-P2| - Diff)`.
+    *   *Input:* Expected Event Rates, Acceptable Difference. Hypothesis options.
+
+**III. Correlation Tests:**
+
+*   **One Sample Correlation Test:**
+    *   *Hypothesis r vs. 0:* Power: Exact Method via Non-Central T. `t = r*sqrt(N-2)/sqrt(1-r^2)`. NCP = `t`. `df = N-2`.
+    *   *Hypothesis r vs. Constant:* Power: Fisher-Z Transformation. `Q = |Zr1 - Zr2|`. `Z_power = Q*sqrt(N-3) - Z_crit`.
+    *   *Precision (CI for r):* Fisher-Z Transformation. `Zr +/- Z_crit/sqrt(N-3)`. Transform back to r.
+    *   *Effect Size Input:* Population Correlation (H1), [Constant (H0)]. Conventions available.
+*   **Two Sample Correlation Test:**
+    *   *Purpose:* Compare correlations from two independent groups.
+    *   *Power Calculation:* Fisher-Z Transformation. `Q = |Zr1 - Zr2|`. `Z_power = Q*sqrt((N'-3)/2) - Z_crit`, `N'`= adjusted N.
+    *   *Effect Size Input:* Correlation for each group.
+
+**IV. ANOVA/ANCOVA (Fixed Effects, Balanced Designs):**
+
+*   **Oneway & Factorial ANOVA/ANCOVA:**
+    *   *Assumption:* Fixed effects, Balanced design, Homogeneity of variance (& slopes for ANCOVA).
+    *   *Power Calculation:* Non-Central F distribution (IMSL: `DFFNCD`, `DFIN`). Algorithm possibly from Brown/Lovato/Russell.
+    *   *NCP Calculation:* `NCP = f^2 * (DF_effect + DF_error + 1)`.
+    *   *Effect Size (f):* `SD_between / SD_within`. Input via Direct f, Conventions, SD Between/Variance Between, Range of Means (Centered/Uniform/Extreme), Individual Means (using assistants).
+    *   *ANCOVA Adjustment:* `f_adj = f / sqrt(1 - R2_cov)`. `DF_error` reduced by `Num_Covariates`.
+    *   *Software Features:* Assistant panels for effect size input, 'Find N' focuses on selected factor/interaction (double-click power value). Handles 2 or 3 factors.
+
+**V. Regression (Fixed Effects):**
+
+*   **Multiple Regression:**
+    *   *Purpose:* Model continuous outcome with multiple predictors (sets).
+    *   *Power Calculation:* Non-Central F distribution.
+    *   *NCP Calculation:* `NCP = f^2 * (DF_set + DF_error + 1)` where `f^2 = Increment R^2 / (1 - Total R^2)` (Model 2).
+    *   *Error Model Options:* Model 1 (Error based on `1 - R^2_up_to_current_set`), Model 2 (Error based on `1 - R^2_full_model` - Default). Select via 'Computational formulas'.
+    *   *Effect Size Input:* `Increment R^2` and `Num Variables` for each set (up to 10).
+    *   *Software Features:* Templates (Polynomial, Covariates+Set, SetA+SetB+Interaction, etc.), Add/Remove sets, Designated Set selection for focused analysis ('Customize screen' -> 'Display superset').
+*   **Logistic Regression:**
+    *   *Purpose:* Model dichotomous outcome.
+    *   *Power Calculation:* Wald Test (approximated via Non-Central Chi-Square derived from Information Matrix `I`). Appendix C describes algorithm involving partitioning covariates, conditional normality, and numerical integration for expectations.
+    *   *Predictor Types:* Continuous (1 or 2), Categorical (1, 2-5 levels).
+    *   *Effect Size Input:* Defined via logistic curve shape (Event Rates, OR, Beta). Graph provided. Correlation input for 2 continuous predictors. Hypothesis selection (Set vs Partialled).
+
+**VI. Survival Analysis:**
+
+*   *Purpose:* Compare time-to-event between two groups.
+*   *Power Calculation:* Log-rank test power approximation (Lakatos method implied). Formula involves sum over intervals based on expected deaths (`d_i`), proportion at risk (`e_i`), hazard-weighted proportion (`e'_i`).
+    *   *Handles Complex Designs:* Accrual (Prior, Constant, Varying), Hazard Rates (Constant, Varying), Attrition (None, Constant, Varying). Grid inputs for varying rates.
+*   *Effect Size Input (Constant Hazard):* Hazard Rates, Hazard Ratio, Median Survival Times, Cumulative Survival Rates. Option to enter HR directly.
+*   *Software Features:* Graphing (cumulative survival/incidence/hazard). Customizable time unit/subject labels.
+
+**VII. Clustered Trials (Cluster Randomized Trials):**
+
+*   *Purpose:* Analyze studies with cluster-level randomization (2-level).
+*   *Power Calculation:* Non-Central T-distribution. `df = 2m - 2 - q2`. NCP accounts for `d`, `ICC` (`rho`), `m` (clusters/group), `n` (subjects/cluster), `R^2` for L1 (`R1_2`) & L2 (`R2_2`) covariates.
+    *   *NCP Formula:* `NCP = d_T * sqrt(m / 2) / sqrt( (1-R2_2)*rho + (1-R1_2)*(1-rho)/n_adj )`.
+*   *Effect Size Input:* `d` (standardized mean diff), `ICC`.
+*   *Covariate Input:* `R^2` for Level 1 and Level 2 covariates, number of covariates (`q1`, `q2`).
+*   *Software Features:* Optimal Design Calculation (cost-effective N/cluster based on costs & ICC), Handles Unequal cluster sizes (using `n-tilde` adjustment). Link/Unlink parameters. Cost calculation display.
+*   *Precision Output:* Standard Error of `d`.
+
+**VIII. General Case (Direct Input for Advanced Users):**
+
+*   *Purpose:* Calculate power for tests following T, F, or Chi-Sq distribution.
+*   *Input:* `Alpha`, `df` (num/den), `Non-Centrality Parameter (NCP)`.
+*   *Calculates Power using:* Non-Central T (`DTDF`), Non-Central F (`DFFNCD`), Non-Central Chi-Square (`DSNDF`). Critical values from `DTIN`, `DFIN`, `DCHIIN`.
+*   *Assistants:* Help calculate NCP/df from standard parameters for T-tests, ANOVA, Regression, Crosstabs.
+
+**IX. General Software Features:**
+
+*   *Interface:* Interactive main screen, Toolbar icons (File ops, Navigation, Help, Tools), Interactive Guide, Summary Panel, Sensitivity Analysis list (Store/Restore scenarios).
+*   *Options:* Alpha/CI/Tails panel, N-Cases panel (Spin control increment, Link/Unlink N), Data entry/Study design options per module, Computational formulas options per module, Customize screen options (labels, display 'd'/OR/RR), Decimal places setting.
+*   *Output:* Power, Precision (CI width), Find N function, Reports (RTF format, copy/paste/save, optional references), Tables & Graphs (add factors, modify axes, customize appearance - gridlines, headers/footers, colors, symbols; save/copy/print single or multiple).
+*   *Underlying Tech:* Mentions IMSL libraries, Brown/Lovato/Russell F algorithm, Dallal proportions code, ImageStream graphics.
